@@ -17,3 +17,9 @@ This repository contains static public site source only. It contains no credenti
 - [Up North Cottage](https://slapglif.github.io/jtnprintable-site/up-north-cottage-printable-wall-art/)
 - [Beach House Bathroom](https://slapglif.github.io/jtnprintable-site/beach-house-bathroom-wall-art/)
 - [Blue Hydrangea Sailboat](https://slapglif.github.io/jtnprintable-site/blue-hydrangea-sailboat-wall-art/)
+
+## Discovery endpoints
+
+- [Sitemap](https://slapglif.github.io/jtnprintable-site/sitemap.xml)
+- [RSS collection feed](https://slapglif.github.io/jtnprintable-site/feed.xml)
+- [AI discovery map](https://slapglif.github.io/jtnprintable-site/llms.txt)
