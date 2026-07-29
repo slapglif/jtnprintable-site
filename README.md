@@ -23,3 +23,5 @@ This repository contains static public site source only. It contains no credenti
 - [Sitemap](https://slapglif.github.io/jtnprintable-site/sitemap.xml)
 - [RSS collection feed](https://slapglif.github.io/jtnprintable-site/feed.xml)
 - [AI discovery map](https://slapglif.github.io/jtnprintable-site/llms.txt)
+
+- [Mahjong Game Room Wall Art Guide](https://slapglif.github.io/jtnprintable-site/mahjong-game-room-wall-art/)
