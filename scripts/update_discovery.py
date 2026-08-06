@@ -5,7 +5,7 @@ import xml.etree.ElementTree as ET
 from datetime import date
 
 ROOT = Path(__file__).resolve().parents[1]
-BASE = "https://jtnprintable.com/"
+BASE = "https://slapglif.github.io/jtnprintable-site/"
 TODAY = date.today().isoformat()
 
 CATEGORY_MAP = {

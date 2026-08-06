@@ -42,8 +42,8 @@ Recommended order:
 
 1. Finish DNS for `jtnprintable.com` and `www.jtnprintable.com`.
 2. Attach the custom domain in GitHub Pages and confirm `cname` is no longer null.
-3. Switch canonicals, sitemap URLs, robots sitemap URL, RSS/llms URLs, and schema URLs from the GitHub Pages host to `https://jtnprintable.com/` in one commit.
-4. Verify `https://jtnprintable.com/robots.txt` and `https://jtnprintable.com/sitemap.xml` return 200.
+3. Switch canonicals, sitemap URLs, robots sitemap URL, RSS/llms URLs, and schema URLs from the GitHub Pages host to `https://slapglif.github.io/jtnprintable-site/` in one commit.
+4. Verify `https://slapglif.github.io/jtnprintable-site/robots.txt` and `https://slapglif.github.io/jtnprintable-site/sitemap.xml` return 200.
 5. Submit the sitemap in Google Search Console.
 
 Do not submit the custom-domain sitemap before the custom domain returns stable 200/HTTPS responses.
@@ -56,7 +56,7 @@ When ready:
 
 1. Create an IndexNow key in Bing Webmaster Tools.
 2. Add the key file at the site root, for example `/INDEXNOW_KEY.txt`.
-3. Submit only canonical `https://jtnprintable.com/...` URLs after the domain is live.
+3. Submit only canonical `https://slapglif.github.io/jtnprintable-site/...` URLs after the domain is live.
 
 ## Compliant owned-profile discovery opportunities
 
@@ -65,8 +65,8 @@ Use profiles controlled by JTNPrintableCo only. Avoid fake engagement, paid traf
 Safe opportunities:
 
 - Pinterest owned profile `https://www.pinterest.com/JTNPrintableCo/`: add the owned site URL to profile/about fields where supported; create boards that point to hub pages like `/printable-gallery-wall-sets/`, `/how-to-print-printable-wall-art/`, and room-theme guides.
-- Etsy shop About/related links: add `https://jtnprintable.com/` only after DNS/HTTPS is live; until then, use the GitHub Pages URL only if the owner accepts the temporary host branding.
-- GitHub repository homepage/README: keep the public Pages URL listed until custom domain is live, then update to `https://jtnprintable.com/`.
+- Etsy shop About/related links: add `https://slapglif.github.io/jtnprintable-site/` only after DNS/HTTPS is live; until then, use the GitHub Pages URL only if the owner accepts the temporary host branding.
+- GitHub repository homepage/README: keep the public Pages URL listed until custom domain is live, then update to `https://slapglif.github.io/jtnprintable-site/`.
 - Owned RSS/llms discovery: keep `feed.xml` and `llms.txt` current whenever guide pages are added.
 
 ## Guardrails
