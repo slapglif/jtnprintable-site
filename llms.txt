@@ -3,61 +3,61 @@
 > Original printable gallery-wall collections and room-by-room printable wall-art guides. Digital downloads only; no physical prints or frames are shipped.
 
 ## Canonical site
-- Primary public URL while custom-domain DNS is being repaired: https://slapglif.github.io/jtnprintable-site/
-- Intended custom domain after DNS and GitHub Pages custom-domain verification: https://jtnprintable.com/
+- Primary and canonical public URL: https://jtnprintable.com/
 
 ## Foundational collection pages
-- [Coastal Cottage Printable Wall Art](https://slapglif.github.io/jtnprintable-site/coastal-cottage-wall-art/): Coastal cottage printable wall art for beach homes, lake houses, and cottages.
-- [Tropical Aquarium Bathroom Wall Art Set of 6 | Printable](https://slapglif.github.io/jtnprintable-site/tropical-aquarium-wall-art/): Style a colorful coastal bathroom with a coordinated tropical aquarium wall art set of 6. Instant digital download with 72 JPG files in 12 print sizes.
-- [Printable Gallery Wall Sets](https://slapglif.github.io/jtnprintable-site/printable-gallery-wall-sets/): Printable gallery wall sets for coastal cottages, lake houses, colorful ocean spaces, and digital-download decor.
-- [Digital Download Help](https://slapglif.github.io/jtnprintable-site/digital-download-help/): How JTN Printable digital downloads work on Etsy.
-- [How to Print Printable Wall Art](https://slapglif.github.io/jtnprintable-site/how-to-print-printable-wall-art/): A practical guide to choosing paper, print size, and frames for printable gallery wall art downloaded from Etsy.
+- [Coastal Cottage Printable Wall Art](https://jtnprintable.com/coastal-cottage-wall-art/): Coastal cottage printable wall art for beach homes, lake houses, and cottages.
+- [Tropical Aquarium Bathroom Wall Art Set of 6 | Printable](https://jtnprintable.com/tropical-aquarium-wall-art/): Style a colorful coastal bathroom with a coordinated tropical aquarium wall art set of 6. Instant digital download with 72 JPG files in 12 print sizes.
+- [Printable Gallery Wall Sets](https://jtnprintable.com/printable-gallery-wall-sets/): Printable gallery wall sets for coastal cottages, lake houses, colorful ocean spaces, and digital-download decor.
+- [Digital Download Help](https://jtnprintable.com/digital-download-help/): How JTN Printable digital downloads work on Etsy.
+- [How to Print Printable Wall Art](https://jtnprintable.com/how-to-print-printable-wall-art/): A practical guide to choosing paper, print size, and frames for printable gallery wall art downloaded from Etsy.
 
 ## Coastal, cottage, and lake-house decorating guides
-- [Up North Cottage Wall Art: Lake House Gallery Guide](https://slapglif.github.io/jtnprintable-site/up-north-cottage-printable-wall-art/): Plan an Up North cottage gallery wall for a Michigan lake house, cabin, or guest room with practical layouts, frame sizing, and printable coastal art tips.
-- [Beach House Bathroom Wall Art](https://slapglif.github.io/jtnprintable-site/beach-house-bathroom-wall-art/): Tropical fish and coral reef printable wall art for beach house bathrooms and coastal spaces.
-- [Blue Hydrangea Sailboat Wall Art](https://slapglif.github.io/jtnprintable-site/blue-hydrangea-sailboat-wall-art/): Blue hydrangea and sailboat printable wall art for beach houses, lake houses, cottages, and coastal rooms.
-- [Nautical Studio Wall Art: Maritime Office Gallery Guide](https://slapglif.github.io/jtnprintable-site/nautical-studio-wall-art/): Plan a nautical studio or home office gallery with six maritime signal, lighthouse, map, helm, and navigation prints, plus practical layout and printing advice.
-- [River Species Cabin Wall Art: Freshwater Fish Gallery Guide](https://slapglif.github.io/jtnprintable-site/river-species-cabin-wall-art/): Plan a freshwater fish gallery wall for a cabin, fishing room, nature study, or lake-house entry with practical layouts, framing advice, and a digital print set.
+- [Up North Cottage Wall Art: Lake House Gallery Guide](https://jtnprintable.com/up-north-cottage-printable-wall-art/): Plan an Up North cottage gallery wall for a Michigan lake house, cabin, or guest room with practical layouts, frame sizing, and printable coastal art tips.
+- [Beach House Bathroom Wall Art](https://jtnprintable.com/beach-house-bathroom-wall-art/): Tropical fish and coral reef printable wall art for beach house bathrooms and coastal spaces.
+- [Blue Hydrangea Sailboat Wall Art](https://jtnprintable.com/blue-hydrangea-sailboat-wall-art/): Blue hydrangea and sailboat printable wall art for beach houses, lake houses, cottages, and coastal rooms.
+- [Nautical Studio Wall Art: Maritime Office Gallery Guide](https://jtnprintable.com/nautical-studio-wall-art/): Plan a nautical studio or home office gallery with six maritime signal, lighthouse, map, helm, and navigation prints, plus practical layout and printing advice.
+- [River Species Cabin Wall Art: Freshwater Fish Gallery Guide](https://jtnprintable.com/river-species-cabin-wall-art/): Plan a freshwater fish gallery wall for a cabin, fishing room, nature study, or lake-house entry with practical layouts, framing advice, and a digital print set.
 
 ## Kitchen and dining printable-art guides
-- [Retro Cherry Kitchen Wall Art Ideas](https://slapglif.github.io/jtnprintable-site/retro-cherry-kitchen-wall-art/): Style a cheerful retro kitchen with cherry wall art, vintage pantry colors, practical set-of-six layouts, and printable art tips.
-- [Tinned Sardine Kitchen Wall Art Ideas](https://slapglif.github.io/jtnprintable-site/tinned-sardine-kitchen-wall-art/): Decorate a coastal kitchen, pantry, or breakfast nook with tinned sardine wall art, practical gallery layouts, frame ideas, and printable art tips.
-- [Heirloom Tomato Kitchen Wall Art for Mediterranean Kitchens](https://slapglif.github.io/jtnprintable-site/heirloom-tomato-kitchen-wall-art/): Plan a warm Mediterranean kitchen gallery wall with heirloom tomato prints, practical six-piece layouts, color guidance, framing, and print tips.
-- [Cozy Bakery Kitchen Wall Art Guide](https://slapglif.github.io/jtnprintable-site/cozy-bakery-kitchen-wall-art/): Plan a warm bakery-inspired kitchen gallery wall with practical layout, frame, palette, and printable-art guidance.
-- [Moody Dining Room Wall Art Ideas](https://slapglif.github.io/jtnprintable-site/moody-dining-room-wall-art/): Create a moody supper-club dining room with cocktail-lounge printable wall art, warm lighting, practical gallery-wall spacing, and standard frames.
+- [Retro Cherry Kitchen Wall Art Ideas](https://jtnprintable.com/retro-cherry-kitchen-wall-art/): Style a cheerful retro kitchen with cherry wall art, vintage pantry colors, practical set-of-six layouts, and printable art tips.
+- [Tinned Sardine Kitchen Wall Art Ideas](https://jtnprintable.com/tinned-sardine-kitchen-wall-art/): Decorate a coastal kitchen, pantry, or breakfast nook with tinned sardine wall art, practical gallery layouts, frame ideas, and printable art tips.
+- [Heirloom Tomato Kitchen Wall Art for Mediterranean Kitchens](https://jtnprintable.com/heirloom-tomato-kitchen-wall-art/): Plan a warm Mediterranean kitchen gallery wall with heirloom tomato prints, practical six-piece layouts, color guidance, framing, and print tips.
+- [Cozy Bakery Kitchen Wall Art Guide](https://jtnprintable.com/cozy-bakery-kitchen-wall-art/): Plan a warm bakery-inspired kitchen gallery wall with practical layout, frame, palette, and printable-art guidance.
+- [Moody Dining Room Wall Art Ideas](https://jtnprintable.com/moody-dining-room-wall-art/): Create a moody supper-club dining room with cocktail-lounge printable wall art, warm lighting, practical gallery-wall spacing, and standard frames.
 
 ## Game room, office, and study wall-art guides
-- [Mahjong Game Room Wall Art Ideas](https://slapglif.github.io/jtnprintable-site/mahjong-game-room-wall-art/): Style a colorful mahjong room or game-night corner with coordinated printable wall art, practical frame sizes, and an instant digital download.
-- [Preppy Mahjong Game Room Decor Ideas](https://slapglif.github.io/jtnprintable-site/preppy-mahjong-game-room-decor/): Use color, framing, and simple layout choices to create a welcoming mahjong game room, lounge, or game-night wall.
-- [Minimalist Chess Wall Art for a Modern Game Room](https://slapglif.github.io/jtnprintable-site/minimalist-chess-game-room-wall-art/): Plan a modern chess gallery wall with six geometric printable designs, practical layouts, frame ideas, printing guidance, and an active Etsy digital download.
-- [Croquet Wall Art for a Preppy Game Room](https://slapglif.github.io/jtnprintable-site/preppy-croquet-game-room-wall-art/): Plan a preppy croquet gallery wall for a game room, sunroom, clubhouse, or cottage with practical layout, frame, and printing ideas.
-- [Brutalist Home Office Wall Art: Concrete Gallery Wall Guide](https://slapglif.github.io/jtnprintable-site/brutalist-home-office-wall-art/): Plan a focused brutalist home office with a six-print concrete monolith gallery wall, practical layouts, frame choices, print guidance, and an active Etsy digital download.
-- [Cyberpunk Japan Gaming Room Wall Art Ideas](https://slapglif.github.io/jtnprintable-site/cyberpunk-japan-gaming-room-wall-art/): Plan a neon cyberpunk Japan gaming room gallery wall with practical layout, lighting, printing, and framing tips plus an active Etsy printable set.
-- [Horse Lover Home Office Decor: Equestrian Gallery Wall Ideas](https://slapglif.github.io/jtnprintable-site/horse-lover-home-office-decor/): Create a polished horse-lover office with six equestrian prints, practical layouts, frames, and printing tips.
+- [Mahjong Game Room Wall Art Ideas](https://jtnprintable.com/mahjong-game-room-wall-art/): Style a colorful mahjong room or game-night corner with coordinated printable wall art, practical frame sizes, and an instant digital download.
+- [Preppy Mahjong Game Room Decor Ideas](https://jtnprintable.com/preppy-mahjong-game-room-decor/): Use color, framing, and simple layout choices to create a welcoming mahjong game room, lounge, or game-night wall.
+- [Minimalist Chess Wall Art for a Modern Game Room](https://jtnprintable.com/minimalist-chess-game-room-wall-art/): Plan a modern chess gallery wall with six geometric printable designs, practical layouts, frame ideas, printing guidance, and an active Etsy digital download.
+- [Croquet Wall Art for a Preppy Game Room](https://jtnprintable.com/preppy-croquet-game-room-wall-art/): Plan a preppy croquet gallery wall for a game room, sunroom, clubhouse, or cottage with practical layout, frame, and printing ideas.
+- [Brutalist Home Office Wall Art: Concrete Gallery Wall Guide](https://jtnprintable.com/brutalist-home-office-wall-art/): Plan a focused brutalist home office with a six-print concrete monolith gallery wall, practical layouts, frame choices, print guidance, and an active Etsy digital download.
+- [Cyberpunk Japan Gaming Room Wall Art Ideas](https://jtnprintable.com/cyberpunk-japan-gaming-room-wall-art/): Plan a neon cyberpunk Japan gaming room gallery wall with practical layout, lighting, printing, and framing tips plus an active Etsy printable set.
+- [Horse Lover Home Office Decor: Equestrian Gallery Wall Ideas](https://jtnprintable.com/horse-lover-home-office-decor/): Create a polished horse-lover office with six equestrian prints, practical layouts, frames, and printing tips.
+- [Retro Bowling Game Room Wall Art: Gallery Guide](https://jtnprintable.com/retro-bowling-game-room-wall-art/): Plan a retro bowling game-room gallery wall with practical layouts, color balance, frame choices, and printing advice for a six-print digital set.
 
 ## Science, nature, and atmosphere wall-art guides
-- [Storm Supercell Wall Art for Moody Offices & Game Rooms](https://slapglif.github.io/jtnprintable-site/storm-supercell-plains-wall-art/): Style a dramatic storm-themed gallery wall with six coordinated supercell plains prints, delivered as 72 high-resolution JPG files in 12 print sizes.
-- [Storm Chaser Office Decor: Supercell Gallery Wall Ideas](https://slapglif.github.io/jtnprintable-site/storm-chaser-office-decor/): Plan a storm chaser office with a six-print supercell gallery wall, practical layouts, print guidance, and an active Etsy digital download.
-- [Moody Sky Wall Art: Weather Room Gallery Guide](https://slapglif.github.io/jtnprintable-site/moody-weather-room-wall-art/): Plan a moody weather-room gallery with six atmospheric cloud and storm prints, practical layout ideas, frame guidance, and digital-download details.
-- [Deep Space Nebula Wall Art for a Cosmic Office](https://slapglif.github.io/jtnprintable-site/deep-space-nebula-wall-art/): Plan a deep space nebula gallery wall for an office, study, gaming room, or astronomy-inspired space with layout, frame, and printing tips.
-- [Desert Observatory Wall Art for an Astronomy Office](https://slapglif.github.io/jtnprintable-site/desert-observatory-wall-art/): Plan a desert observatory gallery wall for an astronomy office or study with practical layouts, frame choices, print sizing, and digital-download guidance.
-- [Fossil Wall Art for a Science Office or Study](https://slapglif.github.io/jtnprintable-site/fossil-paleontology-wall-art/): Decorating ideas for a six-print fossil, paleontology, and geology gallery wall in a science office, study, classroom, or natural-history room.
-- [Mineral Crystal Wall Art for a Geology-Inspired Room](https://slapglif.github.io/jtnprintable-site/mineral-crystal-geology-wall-art/): Style mineral crystal wall art in a study, office, classroom, or natural-history room with practical frame, color, and gallery-wall ideas.
-- [Solarpunk City Wall Art for a Green Modern Office](https://slapglif.github.io/jtnprintable-site/solarpunk-city-wall-art/): Style a solarpunk city gallery wall with eco-futurist architecture prints, cohesive frames, green accents, and practical printable-art tips.
-- [Volcano Glass Workshop Wall Art for Creative Studios](https://slapglif.github.io/jtnprintable-site/volcano-glass-workshop-wall-art/): Plan a volcano glass workshop gallery wall for a maker studio, craft room, office, or geology-inspired space with practical layout, framing, and printing advice.
+- [Storm Supercell Wall Art for Moody Offices & Game Rooms](https://jtnprintable.com/storm-supercell-plains-wall-art/): Style a dramatic storm-themed gallery wall with six coordinated supercell plains prints, delivered as 72 high-resolution JPG files in 12 print sizes.
+- [Storm Chaser Office Decor: Supercell Gallery Wall Ideas](https://jtnprintable.com/storm-chaser-office-decor/): Plan a storm chaser office with a six-print supercell gallery wall, practical layouts, print guidance, and an active Etsy digital download.
+- [Moody Sky Wall Art: Weather Room Gallery Guide](https://jtnprintable.com/moody-weather-room-wall-art/): Plan a moody weather-room gallery with six atmospheric cloud and storm prints, practical layout ideas, frame guidance, and digital-download details.
+- [Deep Space Nebula Wall Art for a Cosmic Office](https://jtnprintable.com/deep-space-nebula-wall-art/): Plan a deep space nebula gallery wall for an office, study, gaming room, or astronomy-inspired space with layout, frame, and printing tips.
+- [Desert Observatory Wall Art for an Astronomy Office](https://jtnprintable.com/desert-observatory-wall-art/): Plan a desert observatory gallery wall for an astronomy office or study with practical layouts, frame choices, print sizing, and digital-download guidance.
+- [Fossil Wall Art for a Science Office or Study](https://jtnprintable.com/fossil-paleontology-wall-art/): Decorating ideas for a six-print fossil, paleontology, and geology gallery wall in a science office, study, classroom, or natural-history room.
+- [Mineral Crystal Wall Art for a Geology-Inspired Room](https://jtnprintable.com/mineral-crystal-geology-wall-art/): Style mineral crystal wall art in a study, office, classroom, or natural-history room with practical frame, color, and gallery-wall ideas.
+- [Solarpunk City Wall Art for a Green Modern Office](https://jtnprintable.com/solarpunk-city-wall-art/): Style a solarpunk city gallery wall with eco-futurist architecture prints, cohesive frames, green accents, and practical printable-art tips.
+- [Volcano Glass Workshop Wall Art for Creative Studios](https://jtnprintable.com/volcano-glass-workshop-wall-art/): Plan a volcano glass workshop gallery wall for a maker studio, craft room, office, or geology-inspired space with practical layout, framing, and printing advice.
 
 ## Soft rooms and specialty gallery-wall guides
-- [Nordic Sauna Wall Art for a Calm Spa Bathroom](https://slapglif.github.io/jtnprintable-site/nordic-sauna-wall-art/): Decorate a home sauna or spa bathroom with Nordic sauna wall art, warm wood tones, simple gallery-wall layouts, and printable Scandinavian decor.
-- [Dark Academia Library Wall Art Ideas](https://slapglif.github.io/jtnprintable-site/dark-academia-library-wall-art/): Decorating ideas for a moody study with dark academia library wall art and printable gallery-wall layouts.
-- [Cottagecore Botanical Wall Art: A Room-by-Room Styling Guide](https://slapglif.github.io/jtnprintable-site/cottagecore-botanical-wall-art/): Plan a cottagecore botanical gallery wall with wildflower and herb prints: room placement, frame choices, print sizing, spacing, and digital-download tips.
-- [Equestrian Tack Room Wall Art: A Practical Styling Guide](https://slapglif.github.io/jtnprintable-site/equestrian-tack-room-wall-art/): Plan a six-print equestrian gallery wall for a tack room, horse-lover office, mudroom, or rustic living space with practical layout, framing, and printing guidance.
-- [Woodland Nursery Gallery Wall: A Calm Six-Print Plan](https://slapglif.github.io/jtnprintable-site/woodland-nursery-gallery-wall/): Plan a calm woodland nursery gallery wall with six watercolor forest-animal prints, safe placement, balanced layouts, color, framing, and printing guidance.
-- [Medieval Castle Wall Art Ideas for an Old World Room](https://slapglif.github.io/jtnprintable-site/medieval-castle-wall-art/): Style a library, study, or atmospheric living room with medieval castle wall art, old-world textures, practical gallery-wall layouts, and printable files.
+- [Nordic Sauna Wall Art for a Calm Spa Bathroom](https://jtnprintable.com/nordic-sauna-wall-art/): Decorate a home sauna or spa bathroom with Nordic sauna wall art, warm wood tones, simple gallery-wall layouts, and printable Scandinavian decor.
+- [Dark Academia Library Wall Art Ideas](https://jtnprintable.com/dark-academia-library-wall-art/): Decorating ideas for a moody study with dark academia library wall art and printable gallery-wall layouts.
+- [Cottagecore Botanical Wall Art: A Room-by-Room Styling Guide](https://jtnprintable.com/cottagecore-botanical-wall-art/): Plan a cottagecore botanical gallery wall with wildflower and herb prints: room placement, frame choices, print sizing, spacing, and digital-download tips.
+- [Equestrian Tack Room Wall Art: A Practical Styling Guide](https://jtnprintable.com/equestrian-tack-room-wall-art/): Plan a six-print equestrian gallery wall for a tack room, horse-lover office, mudroom, or rustic living space with practical layout, framing, and printing guidance.
+- [Woodland Nursery Gallery Wall: A Calm Six-Print Plan](https://jtnprintable.com/woodland-nursery-gallery-wall/): Plan a calm woodland nursery gallery wall with six watercolor forest-animal prints, safe placement, balanced layouts, color, framing, and printing guidance.
+- [Medieval Castle Wall Art Ideas for an Old World Room](https://jtnprintable.com/medieval-castle-wall-art/): Style a library, study, or atmospheric living room with medieval castle wall art, old-world textures, practical gallery-wall layouts, and printable files.
 
 ## Discovery endpoints
-- Sitemap: https://slapglif.github.io/jtnprintable-site/sitemap.xml
-- Robots: https://slapglif.github.io/jtnprintable-site/robots.txt
-- RSS feed: https://slapglif.github.io/jtnprintable-site/feed.xml
+- Sitemap: https://jtnprintable.com/sitemap.xml
+- Robots: https://jtnprintable.com/robots.txt
+- RSS feed: https://jtnprintable.com/feed.xml
 
 Etsy listing CTAs on collection and guide pages use owned-organic UTM links. Etsy handles checkout and file delivery.

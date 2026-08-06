@@ -5,7 +5,7 @@ import xml.etree.ElementTree as ET
 from datetime import date
 
 ROOT = Path(__file__).resolve().parents[1]
-BASE = "https://slapglif.github.io/jtnprintable-site/"
+BASE = "https://jtnprintable.com/"
 TODAY = date.today().isoformat()
 
 CATEGORY_MAP = {
@@ -38,6 +38,7 @@ CATEGORY_MAP = {
         "brutalist-home-office-wall-art/",
         "cyberpunk-japan-gaming-room-wall-art/",
         "horse-lover-home-office-decor/",
+        "retro-bowling-game-room-wall-art/",
     ],
     "Science, nature, and atmosphere wall-art guides": [
         "storm-supercell-plains-wall-art/",
@@ -115,8 +116,7 @@ lines = [
     "> Original printable gallery-wall collections and room-by-room printable wall-art guides. Digital downloads only; no physical prints or frames are shipped.",
     "",
     "## Canonical site",
-    f"- Primary public URL while custom-domain DNS is being repaired: {BASE}",
-    "- Intended custom domain after DNS and GitHub Pages custom-domain verification: https://jtnprintable.com/",
+    f"- Primary and canonical public URL: {BASE}",
     "",
 ]
 lookup = {m["slug"]: m for m in pages}
@@ -138,6 +138,9 @@ lines += [
     "Etsy listing CTAs on collection and guide pages use owned-organic UTM links. Etsy handles checkout and file delivery.",
 ]
 write(ROOT / "llms.txt", "\n".join(lines) + "\n")
+
+# robots.txt: unrestricted crawling and an absolute canonical sitemap reference.
+write(ROOT / "robots.txt", f"User-agent: *\nAllow: /\nSitemap: {BASE}sitemap.xml\n")
 
 # Add stronger home and gallery hubs so sitemap-only pages become normal internal links.
 def link_list(slugs, prefix=""):
