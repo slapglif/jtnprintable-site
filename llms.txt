@@ -3,12 +3,12 @@
 > Original printable gallery-wall collections. Digital downloads only; no physical prints or frames are shipped.
 
 ## Collections
-- [Coastal Cottage Wall Art](https://slapglif.github.io/jtnprintable-site/coastal-cottage-wall-art/): coastal cottage, beach house, and lake house printable wall art.
-- [Tropical Aquarium Wall Art](https://slapglif.github.io/jtnprintable-site/tropical-aquarium-wall-art/): tropical fish and coral reef printable wall art.
-- [Up North Cottage Printable Wall Art](https://slapglif.github.io/jtnprintable-site/up-north-cottage-printable-wall-art/): cottage, cabin, and lake-house printable decor.
-- [Beach House Bathroom Wall Art](https://slapglif.github.io/jtnprintable-site/beach-house-bathroom-wall-art/): tropical aquarium printable bathroom decor.
+- [Coastal Cottage Wall Art](https://jtnprintable.com/coastal-cottage-wall-art/): coastal cottage, beach house, and lake house printable wall art.
+- [Tropical Aquarium Wall Art](https://jtnprintable.com/tropical-aquarium-wall-art/): tropical fish and coral reef printable wall art.
+- [Up North Cottage Printable Wall Art](https://jtnprintable.com/up-north-cottage-printable-wall-art/): cottage, cabin, and lake-house printable decor.
+- [Beach House Bathroom Wall Art](https://jtnprintable.com/beach-house-bathroom-wall-art/): tropical aquarium printable bathroom decor.
 
 ## Help
-- [Digital Download Help](https://slapglif.github.io/jtnprintable-site/digital-download-help/)
+- [Digital Download Help](https://jtnprintable.com/digital-download-help/)
 
 Etsy listing CTAs on each page use unique organic UTM links. Etsy handles checkout and file delivery.
