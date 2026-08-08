@@ -45,6 +45,7 @@ CATEGORY_MAP = {
         "storm-chaser-office-decor/",
         "moody-weather-room-wall-art/",
         "deep-space-nebula-wall-art/",
+        "celestial-moon-phase-bedroom-wall-art/",
         "desert-observatory-wall-art/",
         "fossil-paleontology-wall-art/",
         "mineral-crystal-geology-wall-art/",
