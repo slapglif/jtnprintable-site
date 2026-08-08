@@ -56,6 +56,7 @@
 - [Equestrian Tack Room Wall Art: A Practical Styling Guide](https://slapglif.github.io/jtnprintable-site/equestrian-tack-room-wall-art/): Plan a six-print equestrian gallery wall for a tack room, horse-lover office, mudroom, or rustic living space with practical layout, framing, and printing guidance.
 - [Woodland Nursery Gallery Wall: A Calm Six-Print Plan](https://slapglif.github.io/jtnprintable-site/woodland-nursery-gallery-wall/): Plan a calm woodland nursery gallery wall with six watercolor forest-animal prints, safe placement, balanced layouts, color, framing, and printing guidance.
 - [Medieval Castle Wall Art Ideas for an Old World Room](https://slapglif.github.io/jtnprintable-site/medieval-castle-wall-art/): Style a library, study, or atmospheric living room with medieval castle wall art, old-world textures, practical gallery-wall layouts, and printable files.
+- [Maximalist Gallery Wall Art: Eclectic Living Room and Bedroom Guide](https://slapglif.github.io/jtnprintable-site/maximalist-gallery-wall-art/): Plan a maximalist gallery wall with six eclectic animal and botanical prints for a living room, bedroom, reading nook, or creative studio: color balance, frame choices, measured layouts, printing, and digital-download guidance.
 
 ## Discovery endpoints
 - Sitemap: https://slapglif.github.io/jtnprintable-site/sitemap.xml
