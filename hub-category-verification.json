@@ -1,0 +1,82 @@
+{
+  "generated_at": "2026-08-09",
+  "source_term_count": 164,
+  "unique_term_count": 164,
+  "mapped_term_count": 164,
+  "hub_count": 9,
+  "local_audit": [
+    {
+      "url": "https://slapglif.github.io/jtnprintable-site/nursery-and-personalized-printable-art/",
+      "local_http_status": 200,
+      "word_count": 387,
+      "outbound_internal_links": 9,
+      "mapped_ontology_terms": 16,
+      "schema_validation": "PASS"
+    },
+    {
+      "url": "https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/",
+      "local_http_status": 200,
+      "word_count": 465,
+      "outbound_internal_links": 6,
+      "mapped_ontology_terms": 30,
+      "schema_validation": "PASS"
+    },
+    {
+      "url": "https://slapglif.github.io/jtnprintable-site/printable-art-moods-and-trends/",
+      "local_http_status": 200,
+      "word_count": 367,
+      "outbound_internal_links": 11,
+      "mapped_ontology_terms": 17,
+      "schema_validation": "PASS"
+    },
+    {
+      "url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-by-room/",
+      "local_http_status": 200,
+      "word_count": 390,
+      "outbound_internal_links": 11,
+      "mapped_ontology_terms": 18,
+      "schema_validation": "PASS"
+    },
+    {
+      "url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-colors/",
+      "local_http_status": 200,
+      "word_count": 373,
+      "outbound_internal_links": 11,
+      "mapped_ontology_terms": 14,
+      "schema_validation": "PASS"
+    },
+    {
+      "url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-for-occasions/",
+      "local_http_status": 200,
+      "word_count": 389,
+      "outbound_internal_links": 11,
+      "mapped_ontology_terms": 20,
+      "schema_validation": "PASS"
+    },
+    {
+      "url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-gifts/",
+      "local_http_status": 200,
+      "word_count": 367,
+      "outbound_internal_links": 11,
+      "mapped_ontology_terms": 13,
+      "schema_validation": "PASS"
+    },
+    {
+      "url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-styles/",
+      "local_http_status": 200,
+      "word_count": 369,
+      "outbound_internal_links": 12,
+      "mapped_ontology_terms": 18,
+      "schema_validation": "PASS"
+    },
+    {
+      "url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-subjects/",
+      "local_http_status": 200,
+      "word_count": 364,
+      "outbound_internal_links": 12,
+      "mapped_ontology_terms": 18,
+      "schema_validation": "PASS"
+    }
+  ],
+  "failures": []
+}

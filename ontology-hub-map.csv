@@ -1,0 +1,165 @@
+query_id,term,facet,intent,hub_slug,hub_url
+Q001,printable wall art,core,format,printable-art-formats-and-gallery-sets,https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/
+Q002,digital wall art download,core,format,printable-art-formats-and-gallery-sets,https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/
+Q003,instant download wall decor,core,format,printable-art-formats-and-gallery-sets,https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/
+Q004,downloadable art print,core,format,printable-art-formats-and-gallery-sets,https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/
+Q005,print at home wall art,core,format,printable-art-formats-and-gallery-sets,https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/
+Q006,printable home decor,core,format,printable-art-formats-and-gallery-sets,https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/
+Q007,digital print wall decor,core,format,printable-art-formats-and-gallery-sets,https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/
+Q008,large printable wall art,core,format,printable-art-formats-and-gallery-sets,https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/
+Q009,gallery wall set,gallery,collection,printable-art-formats-and-gallery-sets,https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/
+Q010,set of 2 printable wall art,gallery,collection,printable-art-formats-and-gallery-sets,https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/
+Q011,set of 3 printable wall art,gallery,collection,printable-art-formats-and-gallery-sets,https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/
+Q012,printable wall art triptych,gallery,collection,printable-art-formats-and-gallery-sets,https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/
+Q013,curated print collection,gallery,collection,printable-art-formats-and-gallery-sets,https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/
+Q014,statement wall decor set,gallery,collection,printable-art-formats-and-gallery-sets,https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/
+Q015,eclectic gallery wall prints,gallery,collection,printable-art-formats-and-gallery-sets,https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/
+Q016,mix and match gallery prints,gallery,collection,printable-art-formats-and-gallery-sets,https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/
+Q017,living room printable wall art,room,room,printable-wall-art-by-room,https://slapglif.github.io/jtnprintable-site/printable-wall-art-by-room/
+Q018,bedroom printable wall art,room,room,printable-wall-art-by-room,https://slapglif.github.io/jtnprintable-site/printable-wall-art-by-room/
+Q019,kitchen printable wall art,room,room,printable-wall-art-by-room,https://slapglif.github.io/jtnprintable-site/printable-wall-art-by-room/
+Q020,bathroom printable wall art,room,room,printable-wall-art-by-room,https://slapglif.github.io/jtnprintable-site/printable-wall-art-by-room/
+Q021,home office printable wall art,room,room,printable-wall-art-by-room,https://slapglif.github.io/jtnprintable-site/printable-wall-art-by-room/
+Q022,entryway printable wall art,room,room,printable-wall-art-by-room,https://slapglif.github.io/jtnprintable-site/printable-wall-art-by-room/
+Q023,dorm room printable wall art,room,room,printable-wall-art-by-room,https://slapglif.github.io/jtnprintable-site/printable-wall-art-by-room/
+Q024,dining room printable wall art,room,room,printable-wall-art-by-room,https://slapglif.github.io/jtnprintable-site/printable-wall-art-by-room/
+Q025,abstract printable wall art,style,style,printable-wall-art-styles,https://slapglif.github.io/jtnprintable-site/printable-wall-art-styles/
+Q026,minimalist printable wall art,style,style,printable-wall-art-styles,https://slapglif.github.io/jtnprintable-site/printable-wall-art-styles/
+Q027,maximalist printable wall art,style,style,printable-wall-art-styles,https://slapglif.github.io/jtnprintable-site/printable-wall-art-styles/
+Q028,vintage printable wall art,style,style,printable-wall-art-styles,https://slapglif.github.io/jtnprintable-site/printable-wall-art-styles/
+Q029,mid century modern printable wall art,style,style,printable-wall-art-styles,https://slapglif.github.io/jtnprintable-site/printable-wall-art-styles/
+Q030,boho printable wall art,style,style,printable-wall-art-styles,https://slapglif.github.io/jtnprintable-site/printable-wall-art-styles/
+Q031,coastal printable wall art,style,style,printable-wall-art-styles,https://slapglif.github.io/jtnprintable-site/printable-wall-art-styles/
+Q032,modern farmhouse printable wall art,style,style,printable-wall-art-styles,https://slapglif.github.io/jtnprintable-site/printable-wall-art-styles/
+Q033,botanical printable wall art,subject,subject,printable-wall-art-subjects,https://slapglif.github.io/jtnprintable-site/printable-wall-art-subjects/
+Q034,landscape printable wall art,subject,subject,printable-wall-art-subjects,https://slapglif.github.io/jtnprintable-site/printable-wall-art-subjects/
+Q035,floral printable wall art,subject,subject,printable-wall-art-subjects,https://slapglif.github.io/jtnprintable-site/printable-wall-art-subjects/
+Q036,geometric printable wall art,subject,subject,printable-wall-art-subjects,https://slapglif.github.io/jtnprintable-site/printable-wall-art-subjects/
+Q037,typography printable wall art,subject,subject,printable-wall-art-subjects,https://slapglif.github.io/jtnprintable-site/printable-wall-art-subjects/
+Q038,celestial printable wall art,subject,subject,printable-wall-art-subjects,https://slapglif.github.io/jtnprintable-site/printable-wall-art-subjects/
+Q039,world map printable wall art,subject,subject,printable-wall-art-subjects,https://slapglif.github.io/jtnprintable-site/printable-wall-art-subjects/
+Q040,whimsical printable wall art,subject,subject,printable-wall-art-subjects,https://slapglif.github.io/jtnprintable-site/printable-wall-art-subjects/
+Q041,neutral printable wall art,color,color,printable-wall-art-colors,https://slapglif.github.io/jtnprintable-site/printable-wall-art-colors/
+Q042,beige printable wall art,color,color,printable-wall-art-colors,https://slapglif.github.io/jtnprintable-site/printable-wall-art-colors/
+Q043,black and white printable wall art,color,color,printable-wall-art-colors,https://slapglif.github.io/jtnprintable-site/printable-wall-art-colors/
+Q044,blue printable wall art,color,color,printable-wall-art-colors,https://slapglif.github.io/jtnprintable-site/printable-wall-art-colors/
+Q045,sage green printable wall art,color,color,printable-wall-art-colors,https://slapglif.github.io/jtnprintable-site/printable-wall-art-colors/
+Q046,terracotta printable wall art,color,color,printable-wall-art-colors,https://slapglif.github.io/jtnprintable-site/printable-wall-art-colors/
+Q047,pink printable wall art,color,color,printable-wall-art-colors,https://slapglif.github.io/jtnprintable-site/printable-wall-art-colors/
+Q048,colorful printable wall art,color,color,printable-wall-art-colors,https://slapglif.github.io/jtnprintable-site/printable-wall-art-colors/
+Q049,new homeowner printable gift,recipient,recipient,printable-wall-art-gifts,https://slapglif.github.io/jtnprintable-site/printable-wall-art-gifts/
+Q050,couple printable wall art,recipient,recipient,printable-wall-art-gifts,https://slapglif.github.io/jtnprintable-site/printable-wall-art-gifts/
+Q051,family printable wall art,recipient,recipient,printable-wall-art-gifts,https://slapglif.github.io/jtnprintable-site/printable-wall-art-gifts/
+Q052,teacher printable wall art gift,recipient,recipient,printable-wall-art-gifts,https://slapglif.github.io/jtnprintable-site/printable-wall-art-gifts/
+Q053,book lover printable wall art,recipient,recipient,printable-wall-art-gifts,https://slapglif.github.io/jtnprintable-site/printable-wall-art-gifts/
+Q054,gamer printable wall art original,recipient,recipient,printable-wall-art-gifts,https://slapglif.github.io/jtnprintable-site/printable-wall-art-gifts/
+Q055,plant lover printable wall art,recipient,recipient,printable-wall-art-gifts,https://slapglif.github.io/jtnprintable-site/printable-wall-art-gifts/
+Q056,pet lover custom printable art,recipient,recipient,printable-wall-art-gifts,https://slapglif.github.io/jtnprintable-site/printable-wall-art-gifts/
+Q057,housewarming printable wall art,occasion,occasion,printable-wall-art-for-occasions,https://slapglif.github.io/jtnprintable-site/printable-wall-art-for-occasions/
+Q058,wedding printable wall art gift,occasion,occasion,printable-wall-art-for-occasions,https://slapglif.github.io/jtnprintable-site/printable-wall-art-for-occasions/
+Q059,anniversary printable wall art,occasion,occasion,printable-wall-art-for-occasions,https://slapglif.github.io/jtnprintable-site/printable-wall-art-for-occasions/
+Q060,graduation printable wall art,occasion,occasion,printable-wall-art-for-occasions,https://slapglif.github.io/jtnprintable-site/printable-wall-art-for-occasions/
+Q061,mothers day printable wall art,occasion,occasion,printable-wall-art-for-occasions,https://slapglif.github.io/jtnprintable-site/printable-wall-art-for-occasions/
+Q062,fathers day printable wall art,occasion,occasion,printable-wall-art-for-occasions,https://slapglif.github.io/jtnprintable-site/printable-wall-art-for-occasions/
+Q063,new baby printable wall art gift,occasion,occasion,printable-wall-art-for-occasions,https://slapglif.github.io/jtnprintable-site/printable-wall-art-for-occasions/
+Q064,retirement printable wall art gift,occasion,occasion,printable-wall-art-for-occasions,https://slapglif.github.io/jtnprintable-site/printable-wall-art-for-occasions/
+Q065,personalized family name print,personalized,custom,nursery-and-personalized-printable-art,https://slapglif.github.io/jtnprintable-site/nursery-and-personalized-printable-art/
+Q066,custom coordinates printable wall art,personalized,custom,nursery-and-personalized-printable-art,https://slapglif.github.io/jtnprintable-site/nursery-and-personalized-printable-art/
+Q067,birth flower personalized print,personalized,custom,nursery-and-personalized-printable-art,https://slapglif.github.io/jtnprintable-site/nursery-and-personalized-printable-art/
+Q068,custom date printable wall art,personalized,custom,nursery-and-personalized-printable-art,https://slapglif.github.io/jtnprintable-site/nursery-and-personalized-printable-art/
+Q069,custom pet portrait printable,personalized,custom,nursery-and-personalized-printable-art,https://slapglif.github.io/jtnprintable-site/nursery-and-personalized-printable-art/
+Q070,personalized wedding venue print,personalized,custom,nursery-and-personalized-printable-art,https://slapglif.github.io/jtnprintable-site/nursery-and-personalized-printable-art/
+Q071,custom house portrait printable,personalized,custom,nursery-and-personalized-printable-art,https://slapglif.github.io/jtnprintable-site/nursery-and-personalized-printable-art/
+Q072,personalized nursery name print,personalized,custom,nursery-and-personalized-printable-art,https://slapglif.github.io/jtnprintable-site/nursery-and-personalized-printable-art/
+Q073,nursery wall art set printable,nursery,room,nursery-and-personalized-printable-art,https://slapglif.github.io/jtnprintable-site/nursery-and-personalized-printable-art/
+Q074,printable alphabet nursery art,nursery,subject,nursery-and-personalized-printable-art,https://slapglif.github.io/jtnprintable-site/nursery-and-personalized-printable-art/
+Q075,woodland nursery printable art,nursery,subject,nursery-and-personalized-printable-art,https://slapglif.github.io/jtnprintable-site/nursery-and-personalized-printable-art/
+Q076,dinosaur nursery printable art,nursery,subject,nursery-and-personalized-printable-art,https://slapglif.github.io/jtnprintable-site/nursery-and-personalized-printable-art/
+Q077,space nursery printable art,nursery,subject,nursery-and-personalized-printable-art,https://slapglif.github.io/jtnprintable-site/nursery-and-personalized-printable-art/
+Q078,neutral nursery printable art,nursery,style,nursery-and-personalized-printable-art,https://slapglif.github.io/jtnprintable-site/nursery-and-personalized-printable-art/
+Q079,baby girl nursery printable art,nursery,recipient,nursery-and-personalized-printable-art,https://slapglif.github.io/jtnprintable-site/nursery-and-personalized-printable-art/
+Q080,baby boy nursery printable art,nursery,recipient,nursery-and-personalized-printable-art,https://slapglif.github.io/jtnprintable-site/nursery-and-personalized-printable-art/
+Q081,8x10 printable wall art,size,size,printable-art-formats-and-gallery-sets,https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/
+Q082,a4 printable wall art,size,size,printable-art-formats-and-gallery-sets,https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/
+Q083,11x14 printable wall art,size,size,printable-art-formats-and-gallery-sets,https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/
+Q084,16x20 printable wall art,size,size,printable-art-formats-and-gallery-sets,https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/
+Q085,24x36 printable wall art,size,size,printable-art-formats-and-gallery-sets,https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/
+Q086,five ratio printable wall art,size,size,printable-art-formats-and-gallery-sets,https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/
+Q087,wall art decor,surge,trend-validation,printable-art-moods-and-trends,https://slapglif.github.io/jtnprintable-site/printable-art-moods-and-trends/
+Q088,gallery prints,surge,trend-validation,printable-art-moods-and-trends,https://slapglif.github.io/jtnprintable-site/printable-art-moods-and-trends/
+Q089,abstract art printable,surge,trend-validation,printable-art-moods-and-trends,https://slapglif.github.io/jtnprintable-site/printable-art-moods-and-trends/
+Q090,statement wall decor printable,surge,trend-validation,printable-art-moods-and-trends,https://slapglif.github.io/jtnprintable-site/printable-art-moods-and-trends/
+Q091,curated gallery wall set,surge,trend-validation,printable-art-moods-and-trends,https://slapglif.github.io/jtnprintable-site/printable-art-moods-and-trends/
+Q092,whimsical gallery wall prints,surge,trend-validation,printable-art-moods-and-trends,https://slapglif.github.io/jtnprintable-site/printable-art-moods-and-trends/
+Q093,printable wall art bundle,commercial,offer,printable-art-formats-and-gallery-sets,https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/
+Q094,affordable gallery wall set printable,commercial,offer,printable-art-formats-and-gallery-sets,https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/
+Q095,printable wall art collection download,commercial,offer,printable-art-formats-and-gallery-sets,https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/
+Q096,matching printable wall art set,commercial,offer,printable-art-formats-and-gallery-sets,https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/
+F001,living room,room,room,printable-wall-art-by-room,https://slapglif.github.io/jtnprintable-site/printable-wall-art-by-room/
+F002,bedroom,room,room,printable-wall-art-by-room,https://slapglif.github.io/jtnprintable-site/printable-wall-art-by-room/
+F003,office,room,room,printable-wall-art-by-room,https://slapglif.github.io/jtnprintable-site/printable-wall-art-by-room/
+F004,home office,room,room,printable-wall-art-by-room,https://slapglif.github.io/jtnprintable-site/printable-wall-art-by-room/
+F005,gaming room,room,room,printable-wall-art-by-room,https://slapglif.github.io/jtnprintable-site/printable-wall-art-by-room/
+F006,nursery,room,room,printable-wall-art-by-room,https://slapglif.github.io/jtnprintable-site/printable-wall-art-by-room/
+F007,kitchen,room,room,printable-wall-art-by-room,https://slapglif.github.io/jtnprintable-site/printable-wall-art-by-room/
+F008,reading nook,room,room,printable-wall-art-by-room,https://slapglif.github.io/jtnprintable-site/printable-wall-art-by-room/
+F009,dorm room,room,room,printable-wall-art-by-room,https://slapglif.github.io/jtnprintable-site/printable-wall-art-by-room/
+F010,media room,room,room,printable-wall-art-by-room,https://slapglif.github.io/jtnprintable-site/printable-wall-art-by-room/
+F011,maximalist,aesthetic,aesthetic,printable-wall-art-styles,https://slapglif.github.io/jtnprintable-site/printable-wall-art-styles/
+F012,dark academia,aesthetic,aesthetic,printable-wall-art-styles,https://slapglif.github.io/jtnprintable-site/printable-wall-art-styles/
+F013,gothic,aesthetic,aesthetic,printable-wall-art-styles,https://slapglif.github.io/jtnprintable-site/printable-wall-art-styles/
+F014,retro 70s,aesthetic,aesthetic,printable-wall-art-styles,https://slapglif.github.io/jtnprintable-site/printable-wall-art-styles/
+F015,mid century modern,aesthetic,aesthetic,printable-wall-art-styles,https://slapglif.github.io/jtnprintable-site/printable-wall-art-styles/
+F016,japandi,aesthetic,aesthetic,printable-wall-art-styles,https://slapglif.github.io/jtnprintable-site/printable-wall-art-styles/
+F017,industrial,aesthetic,aesthetic,printable-wall-art-styles,https://slapglif.github.io/jtnprintable-site/printable-wall-art-styles/
+F018,brutalist,aesthetic,aesthetic,printable-wall-art-styles,https://slapglif.github.io/jtnprintable-site/printable-wall-art-styles/
+F019,whimsical,aesthetic,aesthetic,printable-wall-art-styles,https://slapglif.github.io/jtnprintable-site/printable-wall-art-styles/
+F020,eclectic,aesthetic,aesthetic,printable-wall-art-styles,https://slapglif.github.io/jtnprintable-site/printable-wall-art-styles/
+F021,abstract,subject,subject,printable-wall-art-subjects,https://slapglif.github.io/jtnprintable-site/printable-wall-art-subjects/
+F022,botanical,subject,subject,printable-wall-art-subjects,https://slapglif.github.io/jtnprintable-site/printable-wall-art-subjects/
+F023,storm,subject,subject,printable-wall-art-subjects,https://slapglif.github.io/jtnprintable-site/printable-wall-art-subjects/
+F024,space,subject,subject,printable-wall-art-subjects,https://slapglif.github.io/jtnprintable-site/printable-wall-art-subjects/
+F025,ocean,subject,subject,printable-wall-art-subjects,https://slapglif.github.io/jtnprintable-site/printable-wall-art-subjects/
+F026,samurai,subject,subject,printable-wall-art-subjects,https://slapglif.github.io/jtnprintable-site/printable-wall-art-subjects/
+F027,cityscape,subject,subject,printable-wall-art-subjects,https://slapglif.github.io/jtnprintable-site/printable-wall-art-subjects/
+F028,circuit board,subject,subject,printable-wall-art-subjects,https://slapglif.github.io/jtnprintable-site/printable-wall-art-subjects/
+F029,coffee,subject,subject,printable-wall-art-subjects,https://slapglif.github.io/jtnprintable-site/printable-wall-art-subjects/
+F030,books,subject,subject,printable-wall-art-subjects,https://slapglif.github.io/jtnprintable-site/printable-wall-art-subjects/
+F031,gamer gift,recipient,recipient,printable-wall-art-gifts,https://slapglif.github.io/jtnprintable-site/printable-wall-art-gifts/
+F032,programmer gift,recipient,recipient,printable-wall-art-gifts,https://slapglif.github.io/jtnprintable-site/printable-wall-art-gifts/
+F033,book lover gift,recipient,recipient,printable-wall-art-gifts,https://slapglif.github.io/jtnprintable-site/printable-wall-art-gifts/
+F034,new homeowner gift,recipient,recipient,printable-wall-art-gifts,https://slapglif.github.io/jtnprintable-site/printable-wall-art-gifts/
+F035,teacher gift,recipient,recipient,printable-wall-art-gifts,https://slapglif.github.io/jtnprintable-site/printable-wall-art-gifts/
+F036,housewarming,occasion,occasion,printable-wall-art-for-occasions,https://slapglif.github.io/jtnprintable-site/printable-wall-art-for-occasions/
+F037,birthday,occasion,occasion,printable-wall-art-for-occasions,https://slapglif.github.io/jtnprintable-site/printable-wall-art-for-occasions/
+F038,graduation,occasion,occasion,printable-wall-art-for-occasions,https://slapglif.github.io/jtnprintable-site/printable-wall-art-for-occasions/
+F039,fathers day,occasion,occasion,printable-wall-art-for-occasions,https://slapglif.github.io/jtnprintable-site/printable-wall-art-for-occasions/
+F040,back to school,occasion,occasion,printable-wall-art-for-occasions,https://slapglif.github.io/jtnprintable-site/printable-wall-art-for-occasions/
+F041,halloween,occasion,occasion,printable-wall-art-for-occasions,https://slapglif.github.io/jtnprintable-site/printable-wall-art-for-occasions/
+F042,christmas,occasion,occasion,printable-wall-art-for-occasions,https://slapglif.github.io/jtnprintable-site/printable-wall-art-for-occasions/
+F044,digital download,format,format,printable-art-formats-and-gallery-sets,https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/
+F046,set of 3 prints,format,format,printable-art-formats-and-gallery-sets,https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/
+F047,set of 6 prints,format,format,printable-art-formats-and-gallery-sets,https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/
+F048,statement wall decor,format,format,printable-art-formats-and-gallery-sets,https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/
+F050,sage green,color,color,printable-wall-art-colors,https://slapglif.github.io/jtnprintable-site/printable-wall-art-colors/
+F051,earthy neutral,color,color,printable-wall-art-colors,https://slapglif.github.io/jtnprintable-site/printable-wall-art-colors/
+F052,black and white,color,color,printable-wall-art-colors,https://slapglif.github.io/jtnprintable-site/printable-wall-art-colors/
+F053,neon pink blue,color,color,printable-wall-art-colors,https://slapglif.github.io/jtnprintable-site/printable-wall-art-colors/
+F054,orange brown,color,color,printable-wall-art-colors,https://slapglif.github.io/jtnprintable-site/printable-wall-art-colors/
+F055,moody dark,color,color,printable-wall-art-colors,https://slapglif.github.io/jtnprintable-site/printable-wall-art-colors/
+F056,conversation starter,emotional_job,emotional_job,printable-art-moods-and-trends,https://slapglif.github.io/jtnprintable-site/printable-art-moods-and-trends/
+F057,focus decor,emotional_job,emotional_job,printable-art-moods-and-trends,https://slapglif.github.io/jtnprintable-site/printable-art-moods-and-trends/
+F058,cozy reading nook,emotional_job,emotional_job,printable-art-moods-and-trends,https://slapglif.github.io/jtnprintable-site/printable-art-moods-and-trends/
+F059,little treat,emotional_job,emotional_job,printable-art-moods-and-trends,https://slapglif.github.io/jtnprintable-site/printable-art-moods-and-trends/
+F060,just because gift,emotional_job,emotional_job,printable-art-moods-and-trends,https://slapglif.github.io/jtnprintable-site/printable-art-moods-and-trends/
+F061,nostalgic decor,emotional_job,emotional_job,printable-art-moods-and-trends,https://slapglif.github.io/jtnprintable-site/printable-art-moods-and-trends/
+F062,calming wall art,emotional_job,emotional_job,printable-art-moods-and-trends,https://slapglif.github.io/jtnprintable-site/printable-art-moods-and-trends/
+F063,spring decor,season,season,printable-wall-art-for-occasions,https://slapglif.github.io/jtnprintable-site/printable-wall-art-for-occasions/
+F064,summer decor,season,season,printable-wall-art-for-occasions,https://slapglif.github.io/jtnprintable-site/printable-wall-art-for-occasions/
+F065,fall decor,season,season,printable-wall-art-for-occasions,https://slapglif.github.io/jtnprintable-site/printable-wall-art-for-occasions/
+F066,winter decor,season,season,printable-wall-art-for-occasions,https://slapglif.github.io/jtnprintable-site/printable-wall-art-for-occasions/
+F067,back to school decor,season,season,printable-wall-art-for-occasions,https://slapglif.github.io/jtnprintable-site/printable-wall-art-for-occasions/
+F070,abstract art,official_surge,official_surge,printable-art-moods-and-trends,https://slapglif.github.io/jtnprintable-site/printable-art-moods-and-trends/
+F071,whimsical jewelry,official_surge,official_surge,printable-art-moods-and-trends,https://slapglif.github.io/jtnprintable-site/printable-art-moods-and-trends/
+F072,wildflower wedding signs,official_surge,official_surge,printable-art-moods-and-trends,https://slapglif.github.io/jtnprintable-site/printable-art-moods-and-trends/
+F073,stained glass wedding signs,official_surge,official_surge,printable-art-moods-and-trends,https://slapglif.github.io/jtnprintable-site/printable-art-moods-and-trends/

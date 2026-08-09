@@ -1,0 +1,1320 @@
+{
+  "source": "query_ontology.csv attachment from t_90b9f704",
+  "term_count": 164,
+  "unique_term_count": 164,
+  "hub_count": 9,
+  "mappings": [
+    {
+      "query_id": "Q001",
+      "term": "printable wall art",
+      "facet": "core",
+      "intent": "format",
+      "hub_slug": "printable-art-formats-and-gallery-sets",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/"
+    },
+    {
+      "query_id": "Q002",
+      "term": "digital wall art download",
+      "facet": "core",
+      "intent": "format",
+      "hub_slug": "printable-art-formats-and-gallery-sets",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/"
+    },
+    {
+      "query_id": "Q003",
+      "term": "instant download wall decor",
+      "facet": "core",
+      "intent": "format",
+      "hub_slug": "printable-art-formats-and-gallery-sets",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/"
+    },
+    {
+      "query_id": "Q004",
+      "term": "downloadable art print",
+      "facet": "core",
+      "intent": "format",
+      "hub_slug": "printable-art-formats-and-gallery-sets",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/"
+    },
+    {
+      "query_id": "Q005",
+      "term": "print at home wall art",
+      "facet": "core",
+      "intent": "format",
+      "hub_slug": "printable-art-formats-and-gallery-sets",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/"
+    },
+    {
+      "query_id": "Q006",
+      "term": "printable home decor",
+      "facet": "core",
+      "intent": "format",
+      "hub_slug": "printable-art-formats-and-gallery-sets",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/"
+    },
+    {
+      "query_id": "Q007",
+      "term": "digital print wall decor",
+      "facet": "core",
+      "intent": "format",
+      "hub_slug": "printable-art-formats-and-gallery-sets",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/"
+    },
+    {
+      "query_id": "Q008",
+      "term": "large printable wall art",
+      "facet": "core",
+      "intent": "format",
+      "hub_slug": "printable-art-formats-and-gallery-sets",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/"
+    },
+    {
+      "query_id": "Q009",
+      "term": "gallery wall set",
+      "facet": "gallery",
+      "intent": "collection",
+      "hub_slug": "printable-art-formats-and-gallery-sets",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/"
+    },
+    {
+      "query_id": "Q010",
+      "term": "set of 2 printable wall art",
+      "facet": "gallery",
+      "intent": "collection",
+      "hub_slug": "printable-art-formats-and-gallery-sets",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/"
+    },
+    {
+      "query_id": "Q011",
+      "term": "set of 3 printable wall art",
+      "facet": "gallery",
+      "intent": "collection",
+      "hub_slug": "printable-art-formats-and-gallery-sets",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/"
+    },
+    {
+      "query_id": "Q012",
+      "term": "printable wall art triptych",
+      "facet": "gallery",
+      "intent": "collection",
+      "hub_slug": "printable-art-formats-and-gallery-sets",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/"
+    },
+    {
+      "query_id": "Q013",
+      "term": "curated print collection",
+      "facet": "gallery",
+      "intent": "collection",
+      "hub_slug": "printable-art-formats-and-gallery-sets",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/"
+    },
+    {
+      "query_id": "Q014",
+      "term": "statement wall decor set",
+      "facet": "gallery",
+      "intent": "collection",
+      "hub_slug": "printable-art-formats-and-gallery-sets",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/"
+    },
+    {
+      "query_id": "Q015",
+      "term": "eclectic gallery wall prints",
+      "facet": "gallery",
+      "intent": "collection",
+      "hub_slug": "printable-art-formats-and-gallery-sets",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/"
+    },
+    {
+      "query_id": "Q016",
+      "term": "mix and match gallery prints",
+      "facet": "gallery",
+      "intent": "collection",
+      "hub_slug": "printable-art-formats-and-gallery-sets",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/"
+    },
+    {
+      "query_id": "Q017",
+      "term": "living room printable wall art",
+      "facet": "room",
+      "intent": "room",
+      "hub_slug": "printable-wall-art-by-room",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-by-room/"
+    },
+    {
+      "query_id": "Q018",
+      "term": "bedroom printable wall art",
+      "facet": "room",
+      "intent": "room",
+      "hub_slug": "printable-wall-art-by-room",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-by-room/"
+    },
+    {
+      "query_id": "Q019",
+      "term": "kitchen printable wall art",
+      "facet": "room",
+      "intent": "room",
+      "hub_slug": "printable-wall-art-by-room",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-by-room/"
+    },
+    {
+      "query_id": "Q020",
+      "term": "bathroom printable wall art",
+      "facet": "room",
+      "intent": "room",
+      "hub_slug": "printable-wall-art-by-room",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-by-room/"
+    },
+    {
+      "query_id": "Q021",
+      "term": "home office printable wall art",
+      "facet": "room",
+      "intent": "room",
+      "hub_slug": "printable-wall-art-by-room",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-by-room/"
+    },
+    {
+      "query_id": "Q022",
+      "term": "entryway printable wall art",
+      "facet": "room",
+      "intent": "room",
+      "hub_slug": "printable-wall-art-by-room",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-by-room/"
+    },
+    {
+      "query_id": "Q023",
+      "term": "dorm room printable wall art",
+      "facet": "room",
+      "intent": "room",
+      "hub_slug": "printable-wall-art-by-room",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-by-room/"
+    },
+    {
+      "query_id": "Q024",
+      "term": "dining room printable wall art",
+      "facet": "room",
+      "intent": "room",
+      "hub_slug": "printable-wall-art-by-room",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-by-room/"
+    },
+    {
+      "query_id": "Q025",
+      "term": "abstract printable wall art",
+      "facet": "style",
+      "intent": "style",
+      "hub_slug": "printable-wall-art-styles",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-styles/"
+    },
+    {
+      "query_id": "Q026",
+      "term": "minimalist printable wall art",
+      "facet": "style",
+      "intent": "style",
+      "hub_slug": "printable-wall-art-styles",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-styles/"
+    },
+    {
+      "query_id": "Q027",
+      "term": "maximalist printable wall art",
+      "facet": "style",
+      "intent": "style",
+      "hub_slug": "printable-wall-art-styles",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-styles/"
+    },
+    {
+      "query_id": "Q028",
+      "term": "vintage printable wall art",
+      "facet": "style",
+      "intent": "style",
+      "hub_slug": "printable-wall-art-styles",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-styles/"
+    },
+    {
+      "query_id": "Q029",
+      "term": "mid century modern printable wall art",
+      "facet": "style",
+      "intent": "style",
+      "hub_slug": "printable-wall-art-styles",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-styles/"
+    },
+    {
+      "query_id": "Q030",
+      "term": "boho printable wall art",
+      "facet": "style",
+      "intent": "style",
+      "hub_slug": "printable-wall-art-styles",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-styles/"
+    },
+    {
+      "query_id": "Q031",
+      "term": "coastal printable wall art",
+      "facet": "style",
+      "intent": "style",
+      "hub_slug": "printable-wall-art-styles",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-styles/"
+    },
+    {
+      "query_id": "Q032",
+      "term": "modern farmhouse printable wall art",
+      "facet": "style",
+      "intent": "style",
+      "hub_slug": "printable-wall-art-styles",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-styles/"
+    },
+    {
+      "query_id": "Q033",
+      "term": "botanical printable wall art",
+      "facet": "subject",
+      "intent": "subject",
+      "hub_slug": "printable-wall-art-subjects",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-subjects/"
+    },
+    {
+      "query_id": "Q034",
+      "term": "landscape printable wall art",
+      "facet": "subject",
+      "intent": "subject",
+      "hub_slug": "printable-wall-art-subjects",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-subjects/"
+    },
+    {
+      "query_id": "Q035",
+      "term": "floral printable wall art",
+      "facet": "subject",
+      "intent": "subject",
+      "hub_slug": "printable-wall-art-subjects",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-subjects/"
+    },
+    {
+      "query_id": "Q036",
+      "term": "geometric printable wall art",
+      "facet": "subject",
+      "intent": "subject",
+      "hub_slug": "printable-wall-art-subjects",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-subjects/"
+    },
+    {
+      "query_id": "Q037",
+      "term": "typography printable wall art",
+      "facet": "subject",
+      "intent": "subject",
+      "hub_slug": "printable-wall-art-subjects",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-subjects/"
+    },
+    {
+      "query_id": "Q038",
+      "term": "celestial printable wall art",
+      "facet": "subject",
+      "intent": "subject",
+      "hub_slug": "printable-wall-art-subjects",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-subjects/"
+    },
+    {
+      "query_id": "Q039",
+      "term": "world map printable wall art",
+      "facet": "subject",
+      "intent": "subject",
+      "hub_slug": "printable-wall-art-subjects",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-subjects/"
+    },
+    {
+      "query_id": "Q040",
+      "term": "whimsical printable wall art",
+      "facet": "subject",
+      "intent": "subject",
+      "hub_slug": "printable-wall-art-subjects",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-subjects/"
+    },
+    {
+      "query_id": "Q041",
+      "term": "neutral printable wall art",
+      "facet": "color",
+      "intent": "color",
+      "hub_slug": "printable-wall-art-colors",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-colors/"
+    },
+    {
+      "query_id": "Q042",
+      "term": "beige printable wall art",
+      "facet": "color",
+      "intent": "color",
+      "hub_slug": "printable-wall-art-colors",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-colors/"
+    },
+    {
+      "query_id": "Q043",
+      "term": "black and white printable wall art",
+      "facet": "color",
+      "intent": "color",
+      "hub_slug": "printable-wall-art-colors",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-colors/"
+    },
+    {
+      "query_id": "Q044",
+      "term": "blue printable wall art",
+      "facet": "color",
+      "intent": "color",
+      "hub_slug": "printable-wall-art-colors",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-colors/"
+    },
+    {
+      "query_id": "Q045",
+      "term": "sage green printable wall art",
+      "facet": "color",
+      "intent": "color",
+      "hub_slug": "printable-wall-art-colors",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-colors/"
+    },
+    {
+      "query_id": "Q046",
+      "term": "terracotta printable wall art",
+      "facet": "color",
+      "intent": "color",
+      "hub_slug": "printable-wall-art-colors",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-colors/"
+    },
+    {
+      "query_id": "Q047",
+      "term": "pink printable wall art",
+      "facet": "color",
+      "intent": "color",
+      "hub_slug": "printable-wall-art-colors",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-colors/"
+    },
+    {
+      "query_id": "Q048",
+      "term": "colorful printable wall art",
+      "facet": "color",
+      "intent": "color",
+      "hub_slug": "printable-wall-art-colors",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-colors/"
+    },
+    {
+      "query_id": "Q049",
+      "term": "new homeowner printable gift",
+      "facet": "recipient",
+      "intent": "recipient",
+      "hub_slug": "printable-wall-art-gifts",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-gifts/"
+    },
+    {
+      "query_id": "Q050",
+      "term": "couple printable wall art",
+      "facet": "recipient",
+      "intent": "recipient",
+      "hub_slug": "printable-wall-art-gifts",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-gifts/"
+    },
+    {
+      "query_id": "Q051",
+      "term": "family printable wall art",
+      "facet": "recipient",
+      "intent": "recipient",
+      "hub_slug": "printable-wall-art-gifts",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-gifts/"
+    },
+    {
+      "query_id": "Q052",
+      "term": "teacher printable wall art gift",
+      "facet": "recipient",
+      "intent": "recipient",
+      "hub_slug": "printable-wall-art-gifts",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-gifts/"
+    },
+    {
+      "query_id": "Q053",
+      "term": "book lover printable wall art",
+      "facet": "recipient",
+      "intent": "recipient",
+      "hub_slug": "printable-wall-art-gifts",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-gifts/"
+    },
+    {
+      "query_id": "Q054",
+      "term": "gamer printable wall art original",
+      "facet": "recipient",
+      "intent": "recipient",
+      "hub_slug": "printable-wall-art-gifts",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-gifts/"
+    },
+    {
+      "query_id": "Q055",
+      "term": "plant lover printable wall art",
+      "facet": "recipient",
+      "intent": "recipient",
+      "hub_slug": "printable-wall-art-gifts",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-gifts/"
+    },
+    {
+      "query_id": "Q056",
+      "term": "pet lover custom printable art",
+      "facet": "recipient",
+      "intent": "recipient",
+      "hub_slug": "printable-wall-art-gifts",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-gifts/"
+    },
+    {
+      "query_id": "Q057",
+      "term": "housewarming printable wall art",
+      "facet": "occasion",
+      "intent": "occasion",
+      "hub_slug": "printable-wall-art-for-occasions",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-for-occasions/"
+    },
+    {
+      "query_id": "Q058",
+      "term": "wedding printable wall art gift",
+      "facet": "occasion",
+      "intent": "occasion",
+      "hub_slug": "printable-wall-art-for-occasions",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-for-occasions/"
+    },
+    {
+      "query_id": "Q059",
+      "term": "anniversary printable wall art",
+      "facet": "occasion",
+      "intent": "occasion",
+      "hub_slug": "printable-wall-art-for-occasions",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-for-occasions/"
+    },
+    {
+      "query_id": "Q060",
+      "term": "graduation printable wall art",
+      "facet": "occasion",
+      "intent": "occasion",
+      "hub_slug": "printable-wall-art-for-occasions",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-for-occasions/"
+    },
+    {
+      "query_id": "Q061",
+      "term": "mothers day printable wall art",
+      "facet": "occasion",
+      "intent": "occasion",
+      "hub_slug": "printable-wall-art-for-occasions",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-for-occasions/"
+    },
+    {
+      "query_id": "Q062",
+      "term": "fathers day printable wall art",
+      "facet": "occasion",
+      "intent": "occasion",
+      "hub_slug": "printable-wall-art-for-occasions",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-for-occasions/"
+    },
+    {
+      "query_id": "Q063",
+      "term": "new baby printable wall art gift",
+      "facet": "occasion",
+      "intent": "occasion",
+      "hub_slug": "printable-wall-art-for-occasions",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-for-occasions/"
+    },
+    {
+      "query_id": "Q064",
+      "term": "retirement printable wall art gift",
+      "facet": "occasion",
+      "intent": "occasion",
+      "hub_slug": "printable-wall-art-for-occasions",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-for-occasions/"
+    },
+    {
+      "query_id": "Q065",
+      "term": "personalized family name print",
+      "facet": "personalized",
+      "intent": "custom",
+      "hub_slug": "nursery-and-personalized-printable-art",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/nursery-and-personalized-printable-art/"
+    },
+    {
+      "query_id": "Q066",
+      "term": "custom coordinates printable wall art",
+      "facet": "personalized",
+      "intent": "custom",
+      "hub_slug": "nursery-and-personalized-printable-art",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/nursery-and-personalized-printable-art/"
+    },
+    {
+      "query_id": "Q067",
+      "term": "birth flower personalized print",
+      "facet": "personalized",
+      "intent": "custom",
+      "hub_slug": "nursery-and-personalized-printable-art",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/nursery-and-personalized-printable-art/"
+    },
+    {
+      "query_id": "Q068",
+      "term": "custom date printable wall art",
+      "facet": "personalized",
+      "intent": "custom",
+      "hub_slug": "nursery-and-personalized-printable-art",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/nursery-and-personalized-printable-art/"
+    },
+    {
+      "query_id": "Q069",
+      "term": "custom pet portrait printable",
+      "facet": "personalized",
+      "intent": "custom",
+      "hub_slug": "nursery-and-personalized-printable-art",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/nursery-and-personalized-printable-art/"
+    },
+    {
+      "query_id": "Q070",
+      "term": "personalized wedding venue print",
+      "facet": "personalized",
+      "intent": "custom",
+      "hub_slug": "nursery-and-personalized-printable-art",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/nursery-and-personalized-printable-art/"
+    },
+    {
+      "query_id": "Q071",
+      "term": "custom house portrait printable",
+      "facet": "personalized",
+      "intent": "custom",
+      "hub_slug": "nursery-and-personalized-printable-art",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/nursery-and-personalized-printable-art/"
+    },
+    {
+      "query_id": "Q072",
+      "term": "personalized nursery name print",
+      "facet": "personalized",
+      "intent": "custom",
+      "hub_slug": "nursery-and-personalized-printable-art",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/nursery-and-personalized-printable-art/"
+    },
+    {
+      "query_id": "Q073",
+      "term": "nursery wall art set printable",
+      "facet": "nursery",
+      "intent": "room",
+      "hub_slug": "nursery-and-personalized-printable-art",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/nursery-and-personalized-printable-art/"
+    },
+    {
+      "query_id": "Q074",
+      "term": "printable alphabet nursery art",
+      "facet": "nursery",
+      "intent": "subject",
+      "hub_slug": "nursery-and-personalized-printable-art",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/nursery-and-personalized-printable-art/"
+    },
+    {
+      "query_id": "Q075",
+      "term": "woodland nursery printable art",
+      "facet": "nursery",
+      "intent": "subject",
+      "hub_slug": "nursery-and-personalized-printable-art",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/nursery-and-personalized-printable-art/"
+    },
+    {
+      "query_id": "Q076",
+      "term": "dinosaur nursery printable art",
+      "facet": "nursery",
+      "intent": "subject",
+      "hub_slug": "nursery-and-personalized-printable-art",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/nursery-and-personalized-printable-art/"
+    },
+    {
+      "query_id": "Q077",
+      "term": "space nursery printable art",
+      "facet": "nursery",
+      "intent": "subject",
+      "hub_slug": "nursery-and-personalized-printable-art",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/nursery-and-personalized-printable-art/"
+    },
+    {
+      "query_id": "Q078",
+      "term": "neutral nursery printable art",
+      "facet": "nursery",
+      "intent": "style",
+      "hub_slug": "nursery-and-personalized-printable-art",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/nursery-and-personalized-printable-art/"
+    },
+    {
+      "query_id": "Q079",
+      "term": "baby girl nursery printable art",
+      "facet": "nursery",
+      "intent": "recipient",
+      "hub_slug": "nursery-and-personalized-printable-art",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/nursery-and-personalized-printable-art/"
+    },
+    {
+      "query_id": "Q080",
+      "term": "baby boy nursery printable art",
+      "facet": "nursery",
+      "intent": "recipient",
+      "hub_slug": "nursery-and-personalized-printable-art",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/nursery-and-personalized-printable-art/"
+    },
+    {
+      "query_id": "Q081",
+      "term": "8x10 printable wall art",
+      "facet": "size",
+      "intent": "size",
+      "hub_slug": "printable-art-formats-and-gallery-sets",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/"
+    },
+    {
+      "query_id": "Q082",
+      "term": "a4 printable wall art",
+      "facet": "size",
+      "intent": "size",
+      "hub_slug": "printable-art-formats-and-gallery-sets",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/"
+    },
+    {
+      "query_id": "Q083",
+      "term": "11x14 printable wall art",
+      "facet": "size",
+      "intent": "size",
+      "hub_slug": "printable-art-formats-and-gallery-sets",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/"
+    },
+    {
+      "query_id": "Q084",
+      "term": "16x20 printable wall art",
+      "facet": "size",
+      "intent": "size",
+      "hub_slug": "printable-art-formats-and-gallery-sets",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/"
+    },
+    {
+      "query_id": "Q085",
+      "term": "24x36 printable wall art",
+      "facet": "size",
+      "intent": "size",
+      "hub_slug": "printable-art-formats-and-gallery-sets",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/"
+    },
+    {
+      "query_id": "Q086",
+      "term": "five ratio printable wall art",
+      "facet": "size",
+      "intent": "size",
+      "hub_slug": "printable-art-formats-and-gallery-sets",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/"
+    },
+    {
+      "query_id": "Q087",
+      "term": "wall art decor",
+      "facet": "surge",
+      "intent": "trend-validation",
+      "hub_slug": "printable-art-moods-and-trends",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-moods-and-trends/"
+    },
+    {
+      "query_id": "Q088",
+      "term": "gallery prints",
+      "facet": "surge",
+      "intent": "trend-validation",
+      "hub_slug": "printable-art-moods-and-trends",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-moods-and-trends/"
+    },
+    {
+      "query_id": "Q089",
+      "term": "abstract art printable",
+      "facet": "surge",
+      "intent": "trend-validation",
+      "hub_slug": "printable-art-moods-and-trends",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-moods-and-trends/"
+    },
+    {
+      "query_id": "Q090",
+      "term": "statement wall decor printable",
+      "facet": "surge",
+      "intent": "trend-validation",
+      "hub_slug": "printable-art-moods-and-trends",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-moods-and-trends/"
+    },
+    {
+      "query_id": "Q091",
+      "term": "curated gallery wall set",
+      "facet": "surge",
+      "intent": "trend-validation",
+      "hub_slug": "printable-art-moods-and-trends",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-moods-and-trends/"
+    },
+    {
+      "query_id": "Q092",
+      "term": "whimsical gallery wall prints",
+      "facet": "surge",
+      "intent": "trend-validation",
+      "hub_slug": "printable-art-moods-and-trends",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-moods-and-trends/"
+    },
+    {
+      "query_id": "Q093",
+      "term": "printable wall art bundle",
+      "facet": "commercial",
+      "intent": "offer",
+      "hub_slug": "printable-art-formats-and-gallery-sets",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/"
+    },
+    {
+      "query_id": "Q094",
+      "term": "affordable gallery wall set printable",
+      "facet": "commercial",
+      "intent": "offer",
+      "hub_slug": "printable-art-formats-and-gallery-sets",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/"
+    },
+    {
+      "query_id": "Q095",
+      "term": "printable wall art collection download",
+      "facet": "commercial",
+      "intent": "offer",
+      "hub_slug": "printable-art-formats-and-gallery-sets",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/"
+    },
+    {
+      "query_id": "Q096",
+      "term": "matching printable wall art set",
+      "facet": "commercial",
+      "intent": "offer",
+      "hub_slug": "printable-art-formats-and-gallery-sets",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/"
+    },
+    {
+      "query_id": "F001",
+      "term": "living room",
+      "facet": "room",
+      "intent": "room",
+      "hub_slug": "printable-wall-art-by-room",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-by-room/"
+    },
+    {
+      "query_id": "F002",
+      "term": "bedroom",
+      "facet": "room",
+      "intent": "room",
+      "hub_slug": "printable-wall-art-by-room",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-by-room/"
+    },
+    {
+      "query_id": "F003",
+      "term": "office",
+      "facet": "room",
+      "intent": "room",
+      "hub_slug": "printable-wall-art-by-room",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-by-room/"
+    },
+    {
+      "query_id": "F004",
+      "term": "home office",
+      "facet": "room",
+      "intent": "room",
+      "hub_slug": "printable-wall-art-by-room",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-by-room/"
+    },
+    {
+      "query_id": "F005",
+      "term": "gaming room",
+      "facet": "room",
+      "intent": "room",
+      "hub_slug": "printable-wall-art-by-room",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-by-room/"
+    },
+    {
+      "query_id": "F006",
+      "term": "nursery",
+      "facet": "room",
+      "intent": "room",
+      "hub_slug": "printable-wall-art-by-room",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-by-room/"
+    },
+    {
+      "query_id": "F007",
+      "term": "kitchen",
+      "facet": "room",
+      "intent": "room",
+      "hub_slug": "printable-wall-art-by-room",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-by-room/"
+    },
+    {
+      "query_id": "F008",
+      "term": "reading nook",
+      "facet": "room",
+      "intent": "room",
+      "hub_slug": "printable-wall-art-by-room",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-by-room/"
+    },
+    {
+      "query_id": "F009",
+      "term": "dorm room",
+      "facet": "room",
+      "intent": "room",
+      "hub_slug": "printable-wall-art-by-room",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-by-room/"
+    },
+    {
+      "query_id": "F010",
+      "term": "media room",
+      "facet": "room",
+      "intent": "room",
+      "hub_slug": "printable-wall-art-by-room",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-by-room/"
+    },
+    {
+      "query_id": "F011",
+      "term": "maximalist",
+      "facet": "aesthetic",
+      "intent": "aesthetic",
+      "hub_slug": "printable-wall-art-styles",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-styles/"
+    },
+    {
+      "query_id": "F012",
+      "term": "dark academia",
+      "facet": "aesthetic",
+      "intent": "aesthetic",
+      "hub_slug": "printable-wall-art-styles",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-styles/"
+    },
+    {
+      "query_id": "F013",
+      "term": "gothic",
+      "facet": "aesthetic",
+      "intent": "aesthetic",
+      "hub_slug": "printable-wall-art-styles",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-styles/"
+    },
+    {
+      "query_id": "F014",
+      "term": "retro 70s",
+      "facet": "aesthetic",
+      "intent": "aesthetic",
+      "hub_slug": "printable-wall-art-styles",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-styles/"
+    },
+    {
+      "query_id": "F015",
+      "term": "mid century modern",
+      "facet": "aesthetic",
+      "intent": "aesthetic",
+      "hub_slug": "printable-wall-art-styles",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-styles/"
+    },
+    {
+      "query_id": "F016",
+      "term": "japandi",
+      "facet": "aesthetic",
+      "intent": "aesthetic",
+      "hub_slug": "printable-wall-art-styles",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-styles/"
+    },
+    {
+      "query_id": "F017",
+      "term": "industrial",
+      "facet": "aesthetic",
+      "intent": "aesthetic",
+      "hub_slug": "printable-wall-art-styles",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-styles/"
+    },
+    {
+      "query_id": "F018",
+      "term": "brutalist",
+      "facet": "aesthetic",
+      "intent": "aesthetic",
+      "hub_slug": "printable-wall-art-styles",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-styles/"
+    },
+    {
+      "query_id": "F019",
+      "term": "whimsical",
+      "facet": "aesthetic",
+      "intent": "aesthetic",
+      "hub_slug": "printable-wall-art-styles",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-styles/"
+    },
+    {
+      "query_id": "F020",
+      "term": "eclectic",
+      "facet": "aesthetic",
+      "intent": "aesthetic",
+      "hub_slug": "printable-wall-art-styles",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-styles/"
+    },
+    {
+      "query_id": "F021",
+      "term": "abstract",
+      "facet": "subject",
+      "intent": "subject",
+      "hub_slug": "printable-wall-art-subjects",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-subjects/"
+    },
+    {
+      "query_id": "F022",
+      "term": "botanical",
+      "facet": "subject",
+      "intent": "subject",
+      "hub_slug": "printable-wall-art-subjects",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-subjects/"
+    },
+    {
+      "query_id": "F023",
+      "term": "storm",
+      "facet": "subject",
+      "intent": "subject",
+      "hub_slug": "printable-wall-art-subjects",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-subjects/"
+    },
+    {
+      "query_id": "F024",
+      "term": "space",
+      "facet": "subject",
+      "intent": "subject",
+      "hub_slug": "printable-wall-art-subjects",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-subjects/"
+    },
+    {
+      "query_id": "F025",
+      "term": "ocean",
+      "facet": "subject",
+      "intent": "subject",
+      "hub_slug": "printable-wall-art-subjects",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-subjects/"
+    },
+    {
+      "query_id": "F026",
+      "term": "samurai",
+      "facet": "subject",
+      "intent": "subject",
+      "hub_slug": "printable-wall-art-subjects",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-subjects/"
+    },
+    {
+      "query_id": "F027",
+      "term": "cityscape",
+      "facet": "subject",
+      "intent": "subject",
+      "hub_slug": "printable-wall-art-subjects",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-subjects/"
+    },
+    {
+      "query_id": "F028",
+      "term": "circuit board",
+      "facet": "subject",
+      "intent": "subject",
+      "hub_slug": "printable-wall-art-subjects",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-subjects/"
+    },
+    {
+      "query_id": "F029",
+      "term": "coffee",
+      "facet": "subject",
+      "intent": "subject",
+      "hub_slug": "printable-wall-art-subjects",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-subjects/"
+    },
+    {
+      "query_id": "F030",
+      "term": "books",
+      "facet": "subject",
+      "intent": "subject",
+      "hub_slug": "printable-wall-art-subjects",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-subjects/"
+    },
+    {
+      "query_id": "F031",
+      "term": "gamer gift",
+      "facet": "recipient",
+      "intent": "recipient",
+      "hub_slug": "printable-wall-art-gifts",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-gifts/"
+    },
+    {
+      "query_id": "F032",
+      "term": "programmer gift",
+      "facet": "recipient",
+      "intent": "recipient",
+      "hub_slug": "printable-wall-art-gifts",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-gifts/"
+    },
+    {
+      "query_id": "F033",
+      "term": "book lover gift",
+      "facet": "recipient",
+      "intent": "recipient",
+      "hub_slug": "printable-wall-art-gifts",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-gifts/"
+    },
+    {
+      "query_id": "F034",
+      "term": "new homeowner gift",
+      "facet": "recipient",
+      "intent": "recipient",
+      "hub_slug": "printable-wall-art-gifts",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-gifts/"
+    },
+    {
+      "query_id": "F035",
+      "term": "teacher gift",
+      "facet": "recipient",
+      "intent": "recipient",
+      "hub_slug": "printable-wall-art-gifts",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-gifts/"
+    },
+    {
+      "query_id": "F036",
+      "term": "housewarming",
+      "facet": "occasion",
+      "intent": "occasion",
+      "hub_slug": "printable-wall-art-for-occasions",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-for-occasions/"
+    },
+    {
+      "query_id": "F037",
+      "term": "birthday",
+      "facet": "occasion",
+      "intent": "occasion",
+      "hub_slug": "printable-wall-art-for-occasions",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-for-occasions/"
+    },
+    {
+      "query_id": "F038",
+      "term": "graduation",
+      "facet": "occasion",
+      "intent": "occasion",
+      "hub_slug": "printable-wall-art-for-occasions",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-for-occasions/"
+    },
+    {
+      "query_id": "F039",
+      "term": "fathers day",
+      "facet": "occasion",
+      "intent": "occasion",
+      "hub_slug": "printable-wall-art-for-occasions",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-for-occasions/"
+    },
+    {
+      "query_id": "F040",
+      "term": "back to school",
+      "facet": "occasion",
+      "intent": "occasion",
+      "hub_slug": "printable-wall-art-for-occasions",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-for-occasions/"
+    },
+    {
+      "query_id": "F041",
+      "term": "halloween",
+      "facet": "occasion",
+      "intent": "occasion",
+      "hub_slug": "printable-wall-art-for-occasions",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-for-occasions/"
+    },
+    {
+      "query_id": "F042",
+      "term": "christmas",
+      "facet": "occasion",
+      "intent": "occasion",
+      "hub_slug": "printable-wall-art-for-occasions",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-for-occasions/"
+    },
+    {
+      "query_id": "F044",
+      "term": "digital download",
+      "facet": "format",
+      "intent": "format",
+      "hub_slug": "printable-art-formats-and-gallery-sets",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/"
+    },
+    {
+      "query_id": "F046",
+      "term": "set of 3 prints",
+      "facet": "format",
+      "intent": "format",
+      "hub_slug": "printable-art-formats-and-gallery-sets",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/"
+    },
+    {
+      "query_id": "F047",
+      "term": "set of 6 prints",
+      "facet": "format",
+      "intent": "format",
+      "hub_slug": "printable-art-formats-and-gallery-sets",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/"
+    },
+    {
+      "query_id": "F048",
+      "term": "statement wall decor",
+      "facet": "format",
+      "intent": "format",
+      "hub_slug": "printable-art-formats-and-gallery-sets",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/"
+    },
+    {
+      "query_id": "F050",
+      "term": "sage green",
+      "facet": "color",
+      "intent": "color",
+      "hub_slug": "printable-wall-art-colors",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-colors/"
+    },
+    {
+      "query_id": "F051",
+      "term": "earthy neutral",
+      "facet": "color",
+      "intent": "color",
+      "hub_slug": "printable-wall-art-colors",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-colors/"
+    },
+    {
+      "query_id": "F052",
+      "term": "black and white",
+      "facet": "color",
+      "intent": "color",
+      "hub_slug": "printable-wall-art-colors",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-colors/"
+    },
+    {
+      "query_id": "F053",
+      "term": "neon pink blue",
+      "facet": "color",
+      "intent": "color",
+      "hub_slug": "printable-wall-art-colors",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-colors/"
+    },
+    {
+      "query_id": "F054",
+      "term": "orange brown",
+      "facet": "color",
+      "intent": "color",
+      "hub_slug": "printable-wall-art-colors",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-colors/"
+    },
+    {
+      "query_id": "F055",
+      "term": "moody dark",
+      "facet": "color",
+      "intent": "color",
+      "hub_slug": "printable-wall-art-colors",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-colors/"
+    },
+    {
+      "query_id": "F056",
+      "term": "conversation starter",
+      "facet": "emotional_job",
+      "intent": "emotional_job",
+      "hub_slug": "printable-art-moods-and-trends",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-moods-and-trends/"
+    },
+    {
+      "query_id": "F057",
+      "term": "focus decor",
+      "facet": "emotional_job",
+      "intent": "emotional_job",
+      "hub_slug": "printable-art-moods-and-trends",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-moods-and-trends/"
+    },
+    {
+      "query_id": "F058",
+      "term": "cozy reading nook",
+      "facet": "emotional_job",
+      "intent": "emotional_job",
+      "hub_slug": "printable-art-moods-and-trends",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-moods-and-trends/"
+    },
+    {
+      "query_id": "F059",
+      "term": "little treat",
+      "facet": "emotional_job",
+      "intent": "emotional_job",
+      "hub_slug": "printable-art-moods-and-trends",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-moods-and-trends/"
+    },
+    {
+      "query_id": "F060",
+      "term": "just because gift",
+      "facet": "emotional_job",
+      "intent": "emotional_job",
+      "hub_slug": "printable-art-moods-and-trends",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-moods-and-trends/"
+    },
+    {
+      "query_id": "F061",
+      "term": "nostalgic decor",
+      "facet": "emotional_job",
+      "intent": "emotional_job",
+      "hub_slug": "printable-art-moods-and-trends",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-moods-and-trends/"
+    },
+    {
+      "query_id": "F062",
+      "term": "calming wall art",
+      "facet": "emotional_job",
+      "intent": "emotional_job",
+      "hub_slug": "printable-art-moods-and-trends",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-moods-and-trends/"
+    },
+    {
+      "query_id": "F063",
+      "term": "spring decor",
+      "facet": "season",
+      "intent": "season",
+      "hub_slug": "printable-wall-art-for-occasions",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-for-occasions/"
+    },
+    {
+      "query_id": "F064",
+      "term": "summer decor",
+      "facet": "season",
+      "intent": "season",
+      "hub_slug": "printable-wall-art-for-occasions",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-for-occasions/"
+    },
+    {
+      "query_id": "F065",
+      "term": "fall decor",
+      "facet": "season",
+      "intent": "season",
+      "hub_slug": "printable-wall-art-for-occasions",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-for-occasions/"
+    },
+    {
+      "query_id": "F066",
+      "term": "winter decor",
+      "facet": "season",
+      "intent": "season",
+      "hub_slug": "printable-wall-art-for-occasions",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-for-occasions/"
+    },
+    {
+      "query_id": "F067",
+      "term": "back to school decor",
+      "facet": "season",
+      "intent": "season",
+      "hub_slug": "printable-wall-art-for-occasions",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-wall-art-for-occasions/"
+    },
+    {
+      "query_id": "F070",
+      "term": "abstract art",
+      "facet": "official_surge",
+      "intent": "official_surge",
+      "hub_slug": "printable-art-moods-and-trends",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-moods-and-trends/"
+    },
+    {
+      "query_id": "F071",
+      "term": "whimsical jewelry",
+      "facet": "official_surge",
+      "intent": "official_surge",
+      "hub_slug": "printable-art-moods-and-trends",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-moods-and-trends/"
+    },
+    {
+      "query_id": "F072",
+      "term": "wildflower wedding signs",
+      "facet": "official_surge",
+      "intent": "official_surge",
+      "hub_slug": "printable-art-moods-and-trends",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-moods-and-trends/"
+    },
+    {
+      "query_id": "F073",
+      "term": "stained glass wedding signs",
+      "facet": "official_surge",
+      "intent": "official_surge",
+      "hub_slug": "printable-art-moods-and-trends",
+      "hub_url": "https://slapglif.github.io/jtnprintable-site/printable-art-moods-and-trends/"
+    }
+  ]
+}

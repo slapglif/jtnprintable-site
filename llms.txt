@@ -58,6 +58,17 @@
 - [Woodland Nursery Gallery Wall: A Calm Six-Print Plan](https://slapglif.github.io/jtnprintable-site/woodland-nursery-gallery-wall/): Plan a calm woodland nursery gallery wall with six watercolor forest-animal prints, safe placement, balanced layouts, color, framing, and printing guidance.
 - [Medieval Castle Wall Art Ideas for an Old World Room](https://slapglif.github.io/jtnprintable-site/medieval-castle-wall-art/): Style a library, study, or atmospheric living room with medieval castle wall art, old-world textures, practical gallery-wall layouts, and printable files.
 
+## Ontology navigation hubs
+- [Formats, sizes & gallery sets](https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/): Substantive buyer guide mapping related ontology terms to relevant collections and detail pages.
+- [Printable wall art by room](https://slapglif.github.io/jtnprintable-site/printable-wall-art-by-room/): Substantive buyer guide mapping related ontology terms to relevant collections and detail pages.
+- [Styles & aesthetics](https://slapglif.github.io/jtnprintable-site/printable-wall-art-styles/): Substantive buyer guide mapping related ontology terms to relevant collections and detail pages.
+- [Subjects & interests](https://slapglif.github.io/jtnprintable-site/printable-wall-art-subjects/): Substantive buyer guide mapping related ontology terms to relevant collections and detail pages.
+- [Color palettes](https://slapglif.github.io/jtnprintable-site/printable-wall-art-colors/): Substantive buyer guide mapping related ontology terms to relevant collections and detail pages.
+- [Gift ideas by recipient](https://slapglif.github.io/jtnprintable-site/printable-wall-art-gifts/): Substantive buyer guide mapping related ontology terms to relevant collections and detail pages.
+- [Occasions & seasons](https://slapglif.github.io/jtnprintable-site/printable-wall-art-for-occasions/): Substantive buyer guide mapping related ontology terms to relevant collections and detail pages.
+- [Nursery & personalized-art guide](https://slapglif.github.io/jtnprintable-site/nursery-and-personalized-printable-art/): Substantive buyer guide mapping related ontology terms to relevant collections and detail pages.
+- [Moods & trends](https://slapglif.github.io/jtnprintable-site/printable-art-moods-and-trends/): Substantive buyer guide mapping related ontology terms to relevant collections and detail pages.
+
 ## Discovery endpoints
 - Sitemap: https://slapglif.github.io/jtnprintable-site/sitemap.xml
 - Robots: https://slapglif.github.io/jtnprintable-site/robots.txt
