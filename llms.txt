@@ -35,6 +35,7 @@
 - [Cyberpunk Japan Gaming Room Wall Art Ideas](https://slapglif.github.io/jtnprintable-site/cyberpunk-japan-gaming-room-wall-art/): Plan a neon cyberpunk Japan gaming room gallery wall with practical layout, lighting, printing, and framing tips plus an active Etsy printable set.
 - [Horse Lover Home Office Decor: Equestrian Gallery Wall Ideas](https://slapglif.github.io/jtnprintable-site/horse-lover-home-office-decor/): Create a polished horse-lover office with six equestrian prints, practical layouts, frames, and printing tips.
 - [Retro Bowling Game Room Wall Art: Gallery Guide](https://slapglif.github.io/jtnprintable-site/retro-bowling-game-room-wall-art/): Plan a retro bowling game-room gallery wall with practical layouts, color balance, frame choices, and printing advice for a six-print digital set.
+- [Moody City Wall Art: Urban Bedroom Guide](https://slapglif.github.io/jtnprintable-site/moody-city-bedroom-wall-art/): Plan a moody city gallery wall for a bedroom, office, or reading corner with rainy street prints, cinematic lighting, measured layouts, and printing guidance.
 
 ## Science, nature, and atmosphere wall-art guides
 - [Storm Supercell Wall Art for Moody Offices & Game Rooms](https://slapglif.github.io/jtnprintable-site/storm-supercell-plains-wall-art/): Style a dramatic storm-themed gallery wall with six coordinated supercell plains prints, delivered as 72 high-resolution JPG files in 12 print sizes.
@@ -57,17 +58,6 @@
 - [Equestrian Tack Room Wall Art: A Practical Styling Guide](https://slapglif.github.io/jtnprintable-site/equestrian-tack-room-wall-art/): Plan a six-print equestrian gallery wall for a tack room, horse-lover office, mudroom, or rustic living space with practical layout, framing, and printing guidance.
 - [Woodland Nursery Gallery Wall: A Calm Six-Print Plan](https://slapglif.github.io/jtnprintable-site/woodland-nursery-gallery-wall/): Plan a calm woodland nursery gallery wall with six watercolor forest-animal prints, safe placement, balanced layouts, color, framing, and printing guidance.
 - [Medieval Castle Wall Art Ideas for an Old World Room](https://slapglif.github.io/jtnprintable-site/medieval-castle-wall-art/): Style a library, study, or atmospheric living room with medieval castle wall art, old-world textures, practical gallery-wall layouts, and printable files.
-
-## Ontology navigation hubs
-- [Formats, sizes & gallery sets](https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/): Substantive buyer guide mapping related ontology terms to relevant collections and detail pages.
-- [Printable wall art by room](https://slapglif.github.io/jtnprintable-site/printable-wall-art-by-room/): Substantive buyer guide mapping related ontology terms to relevant collections and detail pages.
-- [Styles & aesthetics](https://slapglif.github.io/jtnprintable-site/printable-wall-art-styles/): Substantive buyer guide mapping related ontology terms to relevant collections and detail pages.
-- [Subjects & interests](https://slapglif.github.io/jtnprintable-site/printable-wall-art-subjects/): Substantive buyer guide mapping related ontology terms to relevant collections and detail pages.
-- [Color palettes](https://slapglif.github.io/jtnprintable-site/printable-wall-art-colors/): Substantive buyer guide mapping related ontology terms to relevant collections and detail pages.
-- [Gift ideas by recipient](https://slapglif.github.io/jtnprintable-site/printable-wall-art-gifts/): Substantive buyer guide mapping related ontology terms to relevant collections and detail pages.
-- [Occasions & seasons](https://slapglif.github.io/jtnprintable-site/printable-wall-art-for-occasions/): Substantive buyer guide mapping related ontology terms to relevant collections and detail pages.
-- [Nursery & personalized-art guide](https://slapglif.github.io/jtnprintable-site/nursery-and-personalized-printable-art/): Substantive buyer guide mapping related ontology terms to relevant collections and detail pages.
-- [Moods & trends](https://slapglif.github.io/jtnprintable-site/printable-art-moods-and-trends/): Substantive buyer guide mapping related ontology terms to relevant collections and detail pages.
 
 ## Discovery endpoints
 - Sitemap: https://slapglif.github.io/jtnprintable-site/sitemap.xml

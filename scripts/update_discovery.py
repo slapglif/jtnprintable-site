@@ -39,6 +39,7 @@ CATEGORY_MAP = {
         "cyberpunk-japan-gaming-room-wall-art/",
         "horse-lover-home-office-decor/",
         "retro-bowling-game-room-wall-art/",
+        "moody-city-bedroom-wall-art/",
     ],
     "Science, nature, and atmosphere wall-art guides": [
         "storm-supercell-plains-wall-art/",
