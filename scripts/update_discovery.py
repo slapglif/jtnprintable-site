@@ -52,6 +52,7 @@ CATEGORY_MAP = {
         "solarpunk-city-wall-art/",
         "volcano-glass-workshop-wall-art/",
         "tundra-reindeer-wall-art/",
+        "redwood-forest-fog-canopy-wall-art/",
     ],
     "Soft rooms and specialty gallery-wall guides": [
         "nordic-sauna-wall-art/",
