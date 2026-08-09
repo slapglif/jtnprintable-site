@@ -51,6 +51,7 @@ CATEGORY_MAP = {
         "mineral-crystal-geology-wall-art/",
         "solarpunk-city-wall-art/",
         "volcano-glass-workshop-wall-art/",
+        "tundra-reindeer-wall-art/",
     ],
     "Soft rooms and specialty gallery-wall guides": [
         "nordic-sauna-wall-art/",
