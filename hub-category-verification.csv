@@ -1,4 +1,4 @@
-url,local_http_status,word_count,outbound_internal_links,mapped_ontology_terms,schema_validation
+url,http_status,word_count,outbound_internal_links,mapped_ontology_terms,schema_validation
 https://slapglif.github.io/jtnprintable-site/nursery-and-personalized-printable-art/,200,387,9,16,PASS
 https://slapglif.github.io/jtnprintable-site/printable-art-formats-and-gallery-sets/,200,465,6,30,PASS
 https://slapglif.github.io/jtnprintable-site/printable-art-moods-and-trends/,200,367,11,17,PASS
