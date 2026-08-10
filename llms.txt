@@ -60,6 +60,42 @@
 - [Woodland Nursery Gallery Wall: A Calm Six-Print Plan](https://jtnprintable.com/woodland-nursery-gallery-wall/): Plan a calm woodland nursery gallery wall with six watercolor forest-animal prints, safe placement, balanced layouts, color, framing, and printing guidance.
 - [Medieval Castle Wall Art Ideas for an Old World Room](https://jtnprintable.com/medieval-castle-wall-art/): Style a library, study, or atmospheric living room with medieval castle wall art, old-world textures, practical gallery-wall layouts, and printable files.
 
+## More kitchen and dining printable-art guides
+- [Vintage Mushroom Botanical Prints: Build a Woodland Fungi Gallery Wall](https://jtnprintable.com/vintage-mushroom-botanical-wall-art/): Plan a vintage mushroom botanical gallery wall with woodland fungi prints, measured layouts, frame choices, and printing guidance.
+- [Neutral Mediterranean Wall Art: Build a Calm Coastal Gallery](https://jtnprintable.com/neutral-mediterranean-wall-art/): Plan a neutral Mediterranean gallery wall with coastal prints, measured layouts, framing, crop checks, and printing guidance.
+
+## More game room and social-space wall-art guides
+- [Art Deco Cocktail Wall Art: Style a Moody Entertaining Corner](https://jtnprintable.com/art-deco-cocktail-bar-wall-art/): Style an Art Deco cocktail gallery wall for a home bar or dining room with measured layouts, lighting, frame choices, and printing tips.
+- [Moody Billiards Room Wall Art: Build a Focused Pool-Room Gallery](https://jtnprintable.com/moody-billiards-game-room-wall-art/): Plan a moody billiards room gallery wall with dark pool-table art, measured layouts, lighting, frame choices, and printing guidance.
+- [Pickleball Game Room Wall Art: A Bright, Club-Inspired Gallery](https://jtnprintable.com/pickleball-game-room-wall-art/): Plan a bright pickleball game room gallery wall with six coordinated court-inspired prints, measured layouts, and printing guidance.
+- [Preppy Tennis Club Wall Art: Create a Heritage Sports Gallery](https://jtnprintable.com/heritage-tennis-club-wall-art/): Plan a polished tennis-club gallery wall with six printable sports designs, practical layouts, frame choices, and printing guidance.
+- [Rowing Lake House Wall Art: Create a Preppy Crew Gallery](https://jtnprintable.com/rowing-lake-house-wall-art/): Plan a rowing and lake-house gallery wall with preppy crew art, measured layouts, nautical color, framing, and printing guidance.
+
+## More science, nature, and atmosphere wall-art guides
+- [Deep Sea Creatures Gallery Wall: Build a Dark Ocean Display](https://jtnprintable.com/deep-sea-creatures-gallery-wall/): Design a dark-ocean gallery wall with six deep-sea creature prints: room placement, two-by-three layouts, frame choices, and printing guidance.
+- [High Desert Wind Turbine Wall Art: Build a Clean, Purposeful Gallery](https://jtnprintable.com/high-desert-wind-turbine-wall-art/): Plan a high-desert wind turbine gallery wall for a modern office, energy workspace, or desert home with measured layouts and printing guidance.
+- [Stratospheric Balloon Wall Art: Build a Science-Focused Gallery](https://jtnprintable.com/stratospheric-balloon-office-wall-art/): Plan a stratospheric balloon gallery wall for a science office, study, classroom, or aerospace-inspired space with layout and printing guidance.
+- [Microscopic Botanical Cells Wall Art: A Quiet Study Gallery](https://jtnprintable.com/microscopic-botanical-cells-wall-art/): Plan a microscopic botanical cells gallery wall with six plant-cell prints for a study or home office with practical layouts and printing guidance.
+- [Gardening Wall Art for a Potting Shed or Garden Room](https://jtnprintable.com/gardening-potting-shed-wall-art/): Plan a six-print gardening gallery wall for a potting shed, greenhouse, or garden room with practical layouts, framing, and printing guidance.
+- [Folk Art Bird Prints Gallery Wall: Build a Whimsical Nature Display](https://jtnprintable.com/folk-art-bird-prints-gallery-wall/): Plan a folk art bird-print gallery wall with whimsical nature prints, measured layouts, frame choices, and printing guidance.
+
+## More soft-room and gallery-wall guides
+- [Boho Desert Wall Art: A Warm Terracotta Gallery](https://jtnprintable.com/boho-desert-bedroom-wall-art/): Plan a boho desert gallery wall with six terracotta, cactus, and abstract prints: room placement, frame choices, spacing, and printing guidance.
+- [English Country Manor Gallery Wall: A Collected Cottage Display](https://jtnprintable.com/english-country-manor-gallery-wall/): Plan an English country manor gallery wall with six cottage and garden prints: room placement, frame choices, spacing, and printing guidance.
+- [French Countryside Gallery Wall: A Relaxed Provence-Inspired Display](https://jtnprintable.com/french-countryside-gallery-wall/): Plan a French countryside gallery wall with six Provence-inspired prints: lavender palette, room placement, framing, and printing guidance.
+- [Maximalist Gallery Wall Art: A Room of Wonders](https://jtnprintable.com/maximalist-gallery-wall-art/): Plan a maximalist gallery wall with six eclectic animal and botanical prints: jewel-tone living room placement, frame mixing, and printing guidance.
+- [Nursery & Personalized Printable Art Guide](https://jtnprintable.com/nursery-and-personalized-printable-art/): A practical guide to nursery printable art, personalized-art terminology, safe display, and choosing digital downloads for baby rooms.
+
+## Topical discovery hubs
+- [Printable Wall Art by Room](https://jtnprintable.com/printable-wall-art-by-room/): Room-by-room printable wall art ideas for kitchens, bedrooms, offices, nurseries, game rooms, bathrooms, and more.
+- [Printable Wall Art by Color Palette](https://jtnprintable.com/printable-wall-art-colors/): Choose printable wall art by color, from blue, sage, neutral, terracotta, and black-and-white palettes.
+- [Printable Wall Art for Occasions & Seasons](https://jtnprintable.com/printable-wall-art-for-occasions/): Plan printable wall art for housewarmings, weddings, graduations, new babies, holidays, and seasonal decorating.
+- [Printable Wall Art Gift Ideas by Recipient](https://jtnprintable.com/printable-wall-art-gifts/): Thoughtful printable wall art gift ideas for homeowners, couples, families, teachers, gamers, readers, and more.
+- [Printable Wall Art Styles & Aesthetics](https://jtnprintable.com/printable-wall-art-styles/): Explore printable wall art by aesthetic, from coastal and cottagecore to brutalist, dark academia, maximalist, and more.
+- [Printable Wall Art by Subject](https://jtnprintable.com/printable-wall-art-subjects/): Find printable wall art by subject, including botanical, ocean, storm, space, geology, landscape, city, and wildlife themes.
+- [Printable Art Formats, Sizes & Gallery Wall Sets](https://jtnprintable.com/printable-art-formats-and-gallery-sets/): Compare printable wall art formats, common print sizes, gallery-wall set configurations, and practical downloading advice.
+- [Printable Art Moods, Trends & Room Atmosphere](https://jtnprintable.com/printable-art-moods-and-trends/): Use printable art to create a calming, cozy, nostalgic, focused, whimsical, or conversation-starting room atmosphere.
+
 ## Discovery endpoints
 - Sitemap: https://jtnprintable.com/sitemap.xml
 - Robots: https://jtnprintable.com/robots.txt
