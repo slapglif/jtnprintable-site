@@ -103,3 +103,4 @@
 - RSS feed: https://slapglif.github.io/jtnprintable-site/feed.xml
 
 Etsy listing CTAs on collection and guide pages use owned-organic UTM links. Etsy handles checkout and file delivery.
+- Dorm room printable wall art guide: https://slapglif.github.io/jtnprintable-site/dorm-room-printable-wall-art.html
