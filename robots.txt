@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://slapglif.github.io/jtnprintable-site/sitemap.xml
+Sitemap: https://slapglif.github.io/jtnprintable-site/image-sitemap.xml

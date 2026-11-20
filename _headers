@@ -19,3 +19,6 @@
 
 /feed.xml
   Cache-Control: public, max-age=3600
+
+/image-sitemap.xml
+  Cache-Control: public, max-age=3600

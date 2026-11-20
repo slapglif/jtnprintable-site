@@ -3,6 +3,7 @@ import html
 import re
 import xml.etree.ElementTree as ET
 from datetime import date
+from urllib.parse import urljoin
 
 ROOT = Path(__file__).resolve().parents[1]
 BASE = "https://slapglif.github.io/jtnprintable-site/"
@@ -90,6 +91,37 @@ def meta_for(slug):
         "robots": robots.group(1).lower() if robots else "",
     }
 
+def discover_slugs():
+    """Every self-canonical, indexable page on disk - the real page set.
+
+    The sitemap must cover the pages that actually exist, not a hand-kept list:
+    a sitemap URL with no page behind it is a 404, and a page missing from it
+    is invisible to search engines.
+    """
+    out = []
+    for p in sorted(ROOT.rglob("*.html")):
+        rel = p.relative_to(ROOT).as_posix()
+        if rel.startswith(".") or "/.git/" in rel:
+            continue
+        s = read(p)
+        robots = re.search(r'<meta name="robots" content="(.*?)"', s, re.I | re.S)
+        if robots and "noindex" in robots.group(1).lower():
+            continue
+        canonical = re.search(r'<link rel="canonical" href="(.*?)"', s, re.I | re.S)
+        if not canonical:
+            continue
+        if rel == "index.html":
+            expected = BASE
+        elif rel.endswith("/index.html"):
+            expected = BASE + rel[: -len("index.html")]
+        else:
+            expected = BASE + rel
+        if canonical.group(1) != expected:
+            continue
+        out.append(expected)
+    return out
+
+
 all_slugs = ["", *[slug for slugs in CATEGORY_MAP.values() for slug in slugs]]
 # Keep only self-canonical, indexable pages in discovery feeds. Excludes redirect/noindex duplicates.
 pages = []
@@ -102,16 +134,63 @@ for slug in all_slugs:
     pages.append(m)
     seen.add(expected)
 
-# sitemap.xml with full current indexable page set.
+# sitemap.xml with the full current indexable page set (discovered from disk).
 urlset = ET.Element("urlset", xmlns="http://www.sitemaps.org/schemas/sitemap/0.9")
-for m in pages:
+for canonical in discover_slugs():
     url = ET.SubElement(urlset, "url")
-    ET.SubElement(url, "loc").text = m["canonical"]
+    ET.SubElement(url, "loc").text = canonical
     ET.SubElement(url, "lastmod").text = TODAY
-    ET.SubElement(url, "changefreq").text = "weekly" if m["slug"] else "daily"
-    ET.SubElement(url, "priority").text = "1.0" if m["slug"] == "" else ("0.8" if m["slug"] in {"printable-gallery-wall-sets/", "how-to-print-printable-wall-art/", "digital-download-help/"} else "0.7")
+    ET.SubElement(url, "changefreq").text = "daily" if canonical == BASE else "weekly"
+    ET.SubElement(url, "priority").text = (
+        "1.0" if canonical == BASE else
+        "0.8" if canonical in {BASE + s for s in ("printable-gallery-wall-sets/", "how-to-print-printable-wall-art/", "digital-download-help/")}
+        else "0.7")
 ET.indent(urlset, space="  ")
 write(ROOT / "sitemap.xml", '<?xml version="1.0" encoding="UTF-8"?>\n' + ET.tostring(urlset, encoding="unicode"))
+
+# image-sitemap.xml: every artwork image URL paired with the page that shows it.
+IMG_NS = "http://www.google.com/schemas/sitemap-image/1.1"
+image_root = ET.Element("urlset", xmlns="http://www.sitemaps.org/schemas/sitemap/0.9")
+ET.register_namespace("", "http://www.sitemaps.org/schemas/sitemap/0.9")
+ET.register_namespace("image", IMG_NS)
+
+
+def page_images(html_text, page_url):
+    """(absolute image URL, alt text) for each <img> on a page."""
+    out = []
+    for tag in re.findall(r"<img\b[^>]*>", html_text):
+        src = re.search(r'src="([^"]+)"', tag)
+        if not src:
+            continue
+        alt = re.search(r'\balt="([^"]*)"', tag)
+        alt_text = html.unescape(alt.group(1)) if alt else ""
+        u = src.group(1)
+        if not u.startswith("http"):
+            u = urljoin(page_url, u)
+        if not any(u == x[0] for x in out):
+            out.append((u, alt_text))
+    return out
+
+
+image_count = 0
+for canonical in discover_slugs():
+    rel = canonical[len(BASE):]
+    p = (ROOT / "index.html") if canonical == BASE else (ROOT / rel / "index.html") if rel.endswith("/") else (ROOT / rel)
+    if not p.exists():
+        continue
+    imgs = page_images(read(p), canonical)
+    if not imgs:
+        continue
+    url = ET.SubElement(image_root, "url")
+    ET.SubElement(url, "loc").text = canonical
+    for u, alt_text in imgs:
+        im = ET.SubElement(url, f"{{{IMG_NS}}}image")
+        ET.SubElement(im, f"{{{IMG_NS}}}loc").text = u
+        ET.SubElement(im, f"{{{IMG_NS}}}title").text = alt_text[:150]
+        ET.SubElement(im, f"{{{IMG_NS}}}caption").text = alt_text[:300]
+        image_count += 1
+ET.indent(image_root, space="  ")
+write(ROOT / "image-sitemap.xml", '<?xml version="1.0" encoding="UTF-8"?>\n' + ET.tostring(image_root, encoding="unicode"))
 
 # llms.txt: concise owned-site map for AI/crawler discovery without inventing claims.
 lines = [
@@ -136,6 +215,7 @@ for heading, slugs in CATEGORY_MAP.items():
 lines += [
     "## Discovery endpoints",
     f"- Sitemap: {BASE}sitemap.xml",
+    f"- Image sitemap: {BASE}image-sitemap.xml",
     f"- Robots: {BASE}robots.txt",
     f"- RSS feed: {BASE}feed.xml",
     "",
@@ -143,8 +223,9 @@ lines += [
 ]
 write(ROOT / "llms.txt", "\n".join(lines) + "\n")
 
-# robots.txt: unrestricted crawling and an absolute canonical sitemap reference.
-write(ROOT / "robots.txt", f"User-agent: *\nAllow: /\nSitemap: {BASE}sitemap.xml\n")
+# robots.txt: unrestricted crawling plus every sitemap we publish.
+write(ROOT / "robots.txt",
+      f"User-agent: *\nAllow: /\nSitemap: {BASE}sitemap.xml\nSitemap: {BASE}image-sitemap.xml\n")
 
 # Add stronger home and gallery hubs so sitemap-only pages become normal internal links.
 def link_list(slugs, prefix=""):
@@ -179,11 +260,13 @@ gal = re.sub(r'<section class="discovery-hub">.*?</section>', '', gal, flags=re.
 gal = gal.replace('<p class="notice">Digital download only.', gallery_hub + '<p class="notice">Digital download only.')
 write(ROOT / "printable-gallery-wall-sets" / "index.html", gal)
 
-# cache headers for llms/feed discovery endpoint freshness.
+# cache headers for llms/feed/image-sitemap discovery endpoint freshness.
 hdr = read(ROOT / "_headers")
-for block in ["/llms.txt\n  Cache-Control: public, max-age=3600\n", "/feed.xml\n  Cache-Control: public, max-age=3600\n"]:
+for block in ["/llms.txt\n  Cache-Control: public, max-age=3600\n",
+              "/feed.xml\n  Cache-Control: public, max-age=3600\n",
+              "/image-sitemap.xml\n  Cache-Control: public, max-age=3600\n"]:
     if block.split("\n",1)[0] not in hdr:
         hdr = hdr.rstrip() + "\n\n" + block
 write(ROOT / "_headers", hdr)
 
-print(f"Updated {len(pages)} indexable URLs")
+print(f"Updated {len(discover_slugs())} indexable URLs, {image_count} image entries")
