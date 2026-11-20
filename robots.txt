@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://slapglif.github.io/jtnprintable-site/sitemap.xml
-Sitemap: https://slapglif.github.io/jtnprintable-site/image-sitemap.xml
+Sitemap: https://jtnprintable.com/sitemap.xml
+Sitemap: https://jtnprintable.com/image-sitemap.xml
